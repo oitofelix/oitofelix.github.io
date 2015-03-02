@@ -1,0 +1,221 @@
+---
+license: CC BY-ND 4.0
+---
+<!DOCTYPE html>
+
+<!--
+
+  Copyright (C) 2014, 2015 Bruno Félix Rezende Ribeiro
+  <oitofelix@riseup.net>
+
+  This work is licensed under a Creative Commons
+  Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+  You are free to copy and redistribute the material in any medium or
+  format, for any purpose, provided you abide to the license terms.
+
+  http://creativecommons.org/licenses/by-nd/4.0/
+
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+  <!-- ===================== HEAD ===================== -->
+
+  <head>
+
+    <!-- Common elements -->
+    {% include head-common.html %}
+
+    <title>oitofelix - curriculum</title>
+
+    <!-- Metadata -->
+    <meta name="description" content="Curriculum of oitofelix" />
+    <meta name="keywords" content="curriculum, cv, biography" />
+
+    <!-- External resources -->
+    <link rel="stylesheet" href="curriculum.css" />
+
+  </head>
+
+
+
+
+
+  <!-- ===================== BODY ===================== -->
+
+  <body>
+
+    <!-- ===================== DOCUMENT HEADER  ===================== -->
+    <header>
+      {% include header.html %}
+    </header>
+
+
+    <main>
+
+      <!-- ===================== Curriculum ===================== -->
+      <article>
+	<header id="start">
+	  <h2>Curriculum</h2>
+
+	  <img id="self-photo" alt="oitofelix's face"
+	       title="oitofelix's face" src="images/oitofelix-face.jpg"
+	       width="256" height="232" />
+
+	  <table id="identity-table">
+	    <tbody>
+	      <tr>
+		<th class="dark">Name</th>
+		<td>Bruno Félix Rezende Ribeiro (oitofelix)</td>
+	      </tr>
+	      <tr>
+		<th>Country</th>
+		<td>Brazil</td>
+	      </tr>
+	      <tr>
+		<th class="dark">Birth</th>
+		<td>1989</td>
+	      </tr>
+	      <tr>
+		<th>Gender</th>
+		<td>Male</td>
+	      </tr>
+	      <tr>
+		<th class="dark">Homepage</th>
+		<td>
+		  <a href="http://oitofelix.github.io/"
+		     title="Personal">http://oitofelix.github.io/</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th>Email</th>
+		<td>
+		  <a href="mailto:oitofelix@gnu.org"
+		     title="GNU">oitofelix@gnu.org</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th class="dark">IRC</th>
+		<td>
+		  <a href="irc://irc.freenode.net/oitofelix"
+		     title="GNU">oitofelix@freenode</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th>XMPP</th>
+		<td>
+		  <a href="xmpp:oitofelix@riseup.net"
+		     title="Personal">oitofelix@riseup.net</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th class="dark">TOX</th>
+		<td>
+		  <a href="tox:oitofelix@toxme.se"
+		     title="Personal">oitofelix@toxme.se</a>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+
+	</header>
+
+
+	
+	<!-- ===================== Titles ===================== -->
+
+	<section id="titles">
+	  <h2>Titles</h2>
+
+	  <ul id="titles-list">
+	    <li><a href="http://www.gnu.org/people/#b">
+	      GNU Maintainer</a></li>
+	    <li><a href="http://www.portal.famat.ufu.br/node/274">
+	      UFU FAMAT PET Member</a></li>
+	  </ul>
+
+	</section>
+
+
+
+
+	<!-- ===================== Work ===================== -->
+
+	<section id="work">
+	  <h2>Work</h2>
+
+	  <table>
+	    <caption>Published Software</caption>
+	    <thead>
+	      <tr>
+		<th>Project</th>
+		<th>Skills</th>
+              </tr>
+	    </thead>
+	    <tbody>
+              <tr>
+		<td>
+		  <a href="http://oitofelix.github.io/">
+		    oitofelix's homepage
+		  </a>
+		</td>
+		<td>HTML5, CSS3, JavaScript, RSS 2.0,Jekyll, Git, GitHub, Emacs</td>
+              </tr>
+
+	      <tr>
+		<td>
+		  <a href="http://www.gnu.org/software/ccd2cue/">
+		    GNU ccd2cue
+		  </a>
+		</td>
+		<td>Autoconf, M4, Automake, Make, Texinfo, C, Doxygen,
+		  Bash, CVS, Savannah, GDB, Emacs</td>
+              </tr>
+
+              <tr>
+		<td><a href="http://www.npmjs.com/package/grunt-hardlink">grunt-hardlink</a></td>
+		<td>Node.js, NPM, Grunt, JavaScript, Git, GitHub, Emacs</td>
+              </tr>
+
+              <tr>
+		<td><a href="http://www.hpcalc.org/details.php?id=7171">
+		  HP 50g JV</a></td>
+		<td>HP 50g System RPL</td>
+              </tr>
+              
+	    </tbody>
+	  </table>
+
+	  <table>
+	    <caption>Published Articles</caption>
+	    <thead>
+	      <tr>
+		<th>Project</th>
+		<th>Skills</th>
+              </tr>
+	    </thead>
+	    <tbody>  
+              <tr>
+		<td><a href="http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf">
+		  XXXIII CNMAC</a></td>
+		<td>C, Numerical resolution of partial differential
+		  equations, Portuguese</td>
+              </tr>
+	    </tbody>
+	  </table>
+
+	<!-- ===================== ARTICLE FOOTER ===================== -->
+	<footer>
+	  <!-- ===================== Copyright Notice ===================== -->
+
+	  {% include copyright-notice.html %}
+	</footer>
+      </article>
+
+    </main>
+
+    <!-- ===================== DOCUMENT FOOTER ===================== -->
+    {% include footer.html %}
+
+  </body>
+</html>

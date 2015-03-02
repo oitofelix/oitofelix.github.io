@@ -1,1 +1,104 @@
-Hello World
+---
+license: CC BY-ND 4.0
+---
+<!DOCTYPE html>
+
+<!--
+
+  Copyright (C) 2014, 2015 Bruno Félix Rezende Ribeiro
+  <oitofelix@riseup.net>
+
+  This work is licensed under a Creative Commons
+  Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+  You are free to copy and redistribute the material in any medium or
+  format, for any purpose, provided you abide to the license terms.
+
+  http://creativecommons.org/licenses/by-nd/4.0/
+
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+  <!-- ===================== HEAD ===================== -->
+
+  <head>
+
+    <title>oitofelix - homepage</title>
+
+    <!-- Common elements -->
+    {% include head-common.html %}
+
+    <!-- Metadata -->
+    <meta name="description" content="Homepage of oitofelix" />
+    <meta name="keywords" content="homepage" />
+
+    <!-- External resources -->
+    <link rel="stylesheet" href="index.css" />
+    <script src="/scripts/jquery-1.6.4.min.js"></script>
+    <script src="/scripts/jquery.jfeed.pack.js"></script>
+    <script src="/scripts/feed2html.js"></script>
+    <script>fetchFeed ('/feed.xml', 5, '#news-result');</script>
+    <link rel="stylesheet" href="/styles/news-feed.css" />
+
+  </head>
+
+
+
+
+  <!-- ===================== BODY ===================== -->
+
+  <body>
+
+    <!-- ===================== DOCUMENT HEADER  ===================== -->
+    <header>
+      {% include header.html %}
+    </header>
+
+    <main>
+
+      <!-- ===================== Front page ===================== -->
+      <article>
+	<header id="start">
+	  <h2>Front page</h2>
+
+	  <p>
+	    Welcome to oitofelix homepage!  Here you can find articles I
+	    publish about computing, free software and my personal
+	    projects.  Some info about me is also available.
+	  </p>
+
+	</header>
+
+
+
+
+	<!-- ===================== News ===================== -->
+	<section id="news">
+	  <h2>Latest news</h2>
+	  <a href="/feed.xml">
+	    <img src="/images/rss-logo.png"
+		 title="RSS 2.0"
+		 alt="RSS 2.0"
+		 width="24" height="24" /></a>
+
+	  <div id="news-result" />
+	</section>
+
+
+
+	
+	<!-- ===================== ARTICLE FOOTER ===================== -->
+	<footer>
+	  <!-- ===================== Copyright Notice ===================== -->
+
+	  {% include copyright-notice.html %}
+	</footer>
+      </article>
+
+    </main>
+
+    <!-- ===================== DOCUMENT FOOTER ===================== -->
+    {% include footer.html %}
+
+  </body>
+</html>

@@ -1,0 +1,26 @@
+<!-- Metadata -->
+<meta charset="utf-8" />
+<meta name="author" content="Bruno Félix Rezende Ribeiro" />
+
+<!-- External resources -->
+<link rel="author" href="/about-me.html" />
+<link rel="alternate" type="application/rss+xml"
+      title="OITOFELIX homepage feed" href="/feed.xml" />
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+<link rel="stylesheet" href="/styles/base.css" />
+<link rel="stylesheet" href="/styles/navigation.css" />
+<link rel="stylesheet" href="/styles/navigation-vertical.css" />
+
+<!-- Licenses -->
+{% if page.license == 'CC BY-ND 4.0' %}
+<link rel="license"
+      href="http://creativecommons.org/licenses/by-nd/4.0/" />
+{% endif %}
+
+<style type="text/css">
+  .nav-bar a[href="{{ page.url }}"] {
+    color: black;
+    background-color: red;
+    border-color: black;
+  }
+</style>

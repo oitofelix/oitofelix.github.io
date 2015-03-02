@@ -1,0 +1,271 @@
+/*
+ base.css --- A brownish base theme;
+
+ Copyright (C) 2014, 2015 Bruno Félix Rezende Ribeiro
+  <oitofelix@riseup.net>
+
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 3, or (at your option)
+ any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+
+
+
+
+/* All */
+
+html {
+    margin-bottom: 20px;
+    background: Beige;
+    font-family: sans-serif;
+}
+
+
+
+
+
+/* Tables */
+
+table {
+  width: 100%;
+  background-color: darkgray;
+  border-collapse: collapse; 	/* Eliminate table cell borders. */
+  text-align: center;
+}
+
+
+/* Table caption */
+caption {
+    background-color: navy;
+    color: white;
+    font-weight: bold;
+}
+
+
+/* Table rows */
+tbody > tr:nth-child(even) {
+    background-color: silver;	/* Make every even row silver in order to alternate row colors for
+				   better visibility.  */
+}
+
+
+/* Table headers  */
+th {
+    border: 1px solid black;
+    background-color: gray;
+}
+
+thead tr th {
+    background: dimgray;
+}
+
+
+/* Table data cells */
+
+td {
+    border: 1px solid black;
+}
+
+td.hilight {
+    background-color: lightsteelblue;
+}
+
+
+
+
+
+/* Headings */
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+  background-color: maroon;
+  text-align: center;
+  clear: both;
+}
+
+h3 {
+    background-color: navy;
+    font-size : smaller;
+    font-style: italic;
+}
+
+
+
+
+
+/* Figures */
+figure {
+    border: 2px solid black;
+    margin: 10px 0px 10px 0px;
+}
+
+figure.left {
+    float: left;
+    margin-right: 10px;
+    clear: left;
+}
+
+figure.right {
+    float: right;
+    margin-left: 10px;
+    clear: right;
+}
+
+figure.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure.last {
+    margin-bottom: 20px;
+}
+
+figcaption {
+    background-color: yellow;
+    border-top: 1px solid black;
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
+
+
+
+
+
+/* Image */
+img {
+    vertical-align: middle;
+}
+
+
+
+
+
+/* Horizontal ruler */
+hr {
+    border: 0px;
+    height: 2px;
+    background-color: dimgray;
+}
+
+
+
+
+
+/* Address */
+footer address {
+    border: 2px solid orange;
+    background-color: yellow;
+    padding: 4px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+
+
+/* Generic classes */
+.hidden {
+    display: none;
+}
+
+.dark {
+    background: dimgray;
+}
+
+
+
+
+
+body > header {
+    position: relative;
+}
+
+#search-form {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#search-image {
+    position: absolute;
+    top: 3px;
+    right: 8px;
+    width: 32px;
+    height: 32px;
+    background: url("/images/magnifier.png") no-repeat;
+}
+
+#search-input {
+    display: none;
+    position: absolute;
+    top: 9px;
+}
+
+#search-form:hover {
+    width: 230px;
+    height: 38px;
+}
+
+#search-form:hover #search-input {
+    display: inherit;
+}
+
+#search-form:hover #search-image {
+    background: url("/images/startpage.png") no-repeat;
+}
+
+
+
+
+
+/* Copyright notice */
+#copyright-notice {
+    border: 2px solid dimgray;
+    background-color: lightgray;
+    width: 100%;
+    font-style: italic;
+    clear: both;
+    padding: 0px 20px 0px 20px;
+    margin: 20px 0px 20px 0px;
+    box-sizing: border-box;	/* Use internal border so the sub-menu size is not affected. */
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+#copyright-notice a {
+    margin-top: 4px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+
+
+
+
+/* Footer */
+
+#footer-logos {
+    border-top: 2px solid dimgray;
+    margin-top: 20px;
+}
+
+#modification-time {
+    font-family: monospace;
+}
+
+#logos {
+    float: right;
+}

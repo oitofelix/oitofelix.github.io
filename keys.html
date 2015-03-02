@@ -1,0 +1,286 @@
+---
+license: CC BY-ND 4.0
+---
+<!DOCTYPE html>
+
+<!--
+
+  Copyright (C) 2014, 2015 Bruno Félix Rezende Ribeiro
+  <oitofelix@riseup.net>
+
+  This work is licensed under a Creative Commons
+  Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+  You are free to copy and redistribute the material in any medium or
+  format, for any purpose, provided you abide to the license terms.
+
+  http://creativecommons.org/licenses/by-nd/4.0/
+
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+  <!-- ===================== HEAD ===================== -->
+
+  <head>
+
+    <!-- Common elements -->
+    {% include head-common.html %}
+
+    <title>oitofelix - homepage</title>
+
+    <!-- Metadata -->
+    <meta name="description" content="Keys of oitofelix" />
+    <meta name="keywords" content="homepage" />
+
+    <!-- External resources -->
+    <link rel="stylesheet" href="keys.css" />
+
+  </head>
+
+
+
+
+  <!-- ===================== BODY ===================== -->
+
+  <body>
+
+    <!-- ===================== DOCUMENT HEADER  ===================== -->
+    <header>
+      {% include header.html %}
+    </header>
+
+
+    <main>
+
+      <!-- ===================== keys ===================== -->
+      <article>
+	<header id="start">
+	  <h2>Keys</h2>
+
+	  <!-- ===================== Navigation Menu ===================== -->
+
+	  <nav id="nav-bar">
+	    <ul class="nav-bar nav-bar-vertical">
+
+	      <!-- GPG key -->
+	      <li>
+		<a href="#gpg-key">GPG key</a>
+		<div>
+		  <ul>
+		    <li>
+		      <a href="#inline-gpg">Browser inline handling</a>
+		    </li>
+		    <li>
+		      <a href="#key-server-gpg">Receiving from a key
+			server</a>
+		    </li>
+		    <li>
+		      <a href="#manual-download-gpg">Manual download</a>
+		    </li>
+		    <li>
+		      <a href="#checking-fingerprint">Checking fingerprint</a>
+		    </li>
+		  </ul>
+		</div>
+	      </li>
+
+	      <!-- OpenSSH key -->
+	      <li><a href="#openssh-key">OpenSSH key</a></li>
+
+	    </ul>
+	  </nav>
+	</header>
+
+
+
+
+	<!-- ===================== GPG key ===================== -->
+	<section id="gpg-key">
+	  <h2>GPG key</h2>
+
+	  <p>
+	    You can use my public GPG key for encrypting data you want to
+	    send to me privately and to check the authenticity of my
+	    signature in emails and tarball releases, for example.  There
+	    are three main ways of obtaining my public GPG key:
+	  </p>
+
+	  <ol>
+	    <li>
+	      Using browser's
+	      <a href="https://addons.mozilla.org/en-US/firefox/addon/webpg-firefox/">
+		inline GPG handling capabilities</a>; <a href="#inline-gpg">Try it!</a>
+	    </li>
+	    <li>
+	      Receiving keys from a <a href="hkp://keys.gnupg.net/">GPG key
+		server</a>; <a href="#key-server-gpg">Try it!</a>
+	    </li>
+	    <li>
+	      Manually downloading a <a href="oitofelix.gpg">GPG key
+		file</a>;
+	      <a href="#manual-download-gpg">Try it!</a>
+	    </li>
+	  </ol>
+
+	  <p>
+	    After you obtain my public key, it's highly relevant that you
+	    verify the authenticity of the key
+	    by <a href="#checking-fingerprint">checking its fingerprint</a>.
+	  </p>
+
+	  <p>
+	    You might want to know that my GPG key is of type 2048-bit RSA,
+	    was generated on 2013-01-12 and won't expire.  Its fingerprint
+	    is <samp>7CB1 208C 7336 56B7 5962  2500 27B9 C6FD 28D6
+	      18AF</samp>.
+	  </p>
+
+
+	  <!-- Browser inline handling -->
+	  <section id="inline-gpg">
+	    <h3>Browser inline handling</h3>
+
+	    <p>
+	      If you are using a browser which supports handling GPG inline
+	      content, such as Mozilla-based browsers with
+	      the <a href="https://addons.mozilla.org/en-US/firefox/addon/webpg-firefox/">WebPG</a>
+	      add-on, you can easily add my public GPG key in-lined below to
+	      your key-ring.  Note that for this to work you need to enable
+	      inline formatting of GPG messages and keys.
+	    </p>
+
+	    <pre class="gpg">
+{% include_relative oitofelix.gpg %}
+	    </pre>
+
+	  </section>
+
+
+	  <!-- Receiving a key server -->
+	  <section id="key-server-gpg">
+	    <h3>Receiving from a key server</h3>
+
+	    <p>
+	      My public GPG key can be found at
+	      <a href="hkp://keys.gnupg.net/">hkp://keys.gnupg.net/</a> and
+	      its ID is <samp>0x28D618AF</samp>.  You can retrieve it by the
+	      following command:
+	    </p>
+
+	    {% highlight sh %}
+	      gpg --recv-keys 0x28D618AF --keyserver hkp://keys.gnupg.net/
+	    {% endhighlight %}
+
+	  </section>
+
+
+	  <!-- Manual download -->
+	  <section id="manual-download-gpg">
+	    <h3>Manual download</h3>
+
+	    <p>
+	      Download my armored public <a href="oitofelix.gpg">GPG key</a>
+	      from this server and then import it to your public key-ring
+	      using:
+	    </p>
+
+	    {% highlight sh %}
+	    gpg --import oitofelix.gpg
+	    {% endhighlight %}
+
+	  </section>
+
+
+	  <!-- Checking fingerprint -->
+	  <section id="checking-fingerprint">
+	    <h3>Checking fingerprint</h3>
+	    <p>
+	      To verify the authenticity of the key you've imported to your
+	      public key-ring, enter the command:
+	    </p>
+
+	    {% highlight sh %}
+	      gpg --fingerprint 0x28D618AF | sed -n '/^[[:blank:]]\+Key/s/^.*= //p'
+	    {% endhighlight %}
+	    
+	    <p>
+	      It must print the following fingerprint: <samp>7CB1 208C 7336
+		56B7 5962  2500 27B9 C6FD 28D6 18AF</samp>
+	    </p>
+
+	    <p>
+	      Otherwise something is wrong!  In that
+	      case <strong>don't</strong> use the retrieved key to verify
+	      signatures or encrypt data, and contact me.
+	    </p>
+
+	  </section>
+
+
+	</section>
+
+
+	<!-- ===================== OpenSSH key ===================== -->
+	<section id="openssh-key">
+	  <h2>OpenSSH key</h2>
+
+	  <p>
+	    You can use my public OpenSSH key (2048-bit RSA) for granting me
+	    access to any computer you have an user account in and are
+	    allowed to make SSH connections to.  To do that, follow the
+	    steps below logged in the system as the user you want to grant
+	    me access to.
+	  </p>
+
+	  <p>
+	    First download <a href="oitofelix.ssh">my public OpenSSH key</a>
+	    and verify the authenticity of the key by running:
+	  </p>
+
+	  {% highlight sh %}
+	    ssh-keygen -lf oitofelix.ssh | cut -f2 -d' '
+	  {% endhighlight %}
+	  
+	  <p>
+	    It must print the following
+	    fingerprint: <samp>c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e</samp>.
+	    Otherwise something is wrong!  In that
+	    case <strong>abort</strong> the procedure at this step and
+	    contact me.
+	  </p>
+
+	  <p>
+	    If the fingerprint is valid, you can safely add the key to your
+	    list of authorized OpenSSH keys by issuing the following
+	    command:
+	  </p>
+
+	  {% highlight sh %}
+	  cat oitofelix.ssh >> ~/.ssh/authorized_keys
+	  {% endhighlight %}
+
+	  <p>
+	    It's done!  Contact me so we can proceed with the remote
+	    assistance.
+	  </p>
+
+	</section>
+
+
+
+
+	<!-- ===================== ARTICLE FOOTER ===================== -->
+	<footer>
+	  <!-- ===================== Copyright Notice ===================== -->
+
+	  {% include copyright-notice.html %}
+	</footer>
+      </article>
+
+    </main>
+
+    <!-- ===================== DOCUMENT FOOTER ===================== -->
+    {% include footer.html %}
+
+  </body>
+</html>

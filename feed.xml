@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+
+  Copyright (C) 2014, 2015 Bruno Félix Rezende Ribeiro
+  <oitofelix@riseup.net>
+
+  This work is licensed under a Creative Commons
+  Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+  You are free to copy and redistribute the material in any medium or
+  format, for any purpose, provided you abide to the license terms.
+
+  http://creativecommons.org/licenses/by-nd/4.0/
+
+-->
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://oitofelix.github.io/feed.xml"
+	       rel="self" type="application/rss+xml" />
+
+    <!-- Channel meta-data -->
+    <title>OITOFELIX - Homepage</title>
+    <link>http://oitofelix.github.io/</link>
+    <description>Updates from oitofelix's homepage;</description>
+    <language>en</language>
+    <copyright>Copyright (C) 2014, 2015 Bruno Félix Rezende Ribeiro</copyright>
+    <managingEditor>oitofelix@riseup.net (Bruno Félix Rezende Ribeiro)</managingEditor>
+    <webMaster>oitofelix@riseup.net (Bruno Félix Rezende Ribeiro)</webMaster>
+    <docs>http://validator.w3.org/feed/docs/rss2.html</docs>
+    <image>
+      <title>OITOFELIX - Homepage</title>
+      <link>http://oitofelix.github.io/</link>
+      <url>http://oitofelix.github.io/images/rss-icon.png</url>
+      <width>64</width>
+      <height>64</height>
+    </image>
+
+    <!-- New hosting -->
+    <item>
+      <title>New hosting</title>
+      <link>http://oitofelix.github.io/</link>
+      <description>
+	oitofelix's homepage is now hosted by GitHub Pages.  The site
+	got major modifications, in order to be more objective and
+	maintainable, but has kept the good old style.
+      </description>
+      <pubDate>Mon, 02 Mar 2015 08:18:04 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/</guid>
+    </item>
+
+    <!-- Keys -->
+    <item>
+      <title>Keys</title>
+      <link>http://oitofelix.github.io/keys.html</link>
+      <description>
+	Now you can download oitofelix's GPG and OpenSSH keys for
+	secure communication and remote assistance, respectively.
+      </description>
+      <pubDate>Thu, 28 Aug 2014 03:47:02 +0000</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/keys.html</guid>
+    </item>
+
+    <!-- Curriculum -->
+    <item>
+      <title>Curriculum</title>
+      <link>http://oitofelix.github.io/curriculum.html</link>
+      <description>
+	The preliminary version of oitofelix's curriculum is
+	online!
+      </description>
+      <pubDate>Sun, 10 Aug 2014 21:37:58 +0000</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/curriculum.html</guid>
+    </item>
+
+  </channel>
+</rss>

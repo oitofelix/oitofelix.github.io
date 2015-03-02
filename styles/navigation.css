@@ -1,0 +1,174 @@
+/* navigation.css - CSS for page's navigation bar;
+ *
+ * To use it declare the top-level element (often a 'ul) as pertaining
+ * to class "nav-bar".
+ *
+ * The navigation bar will be expanded to fill the full width
+ * available.  If you want a navigation bar which expands on multiple
+ * lines, define each row as an independent navigation bar and use CSS
+ * to join them so they look as they were one.
+ *
+ * Every sub-menu (often a 'ul') element should be wrapped by a 'div'
+ * element so the absolute-relative positioning works as intended.
+ *
+ */
+
+
+
+
+
+/* Layout the top-level element of the navigation bar. */
+
+.nav-bar {
+    width: 100%;		/* Make navigation bar fill the full width.*/
+
+    border: 4px solid maroon; /* Add a nice border to the navigation bar. */
+
+    -moz-box-sizing: border-box;
+
+    -webkit-box-sizing: border-box;
+
+    box-sizing: border-box; /* Make borders internal so the navigation bar has exactly the
+			       requested width. */
+
+    margin: 0px;		/* Remove any existing margin. */
+
+    padding: 4px;	 /* Pad menu items to evenly space them between other menu items and
+			    menu bar borders. */
+
+    background-color: sienna;  	/* This is a greenish navigation bar. */
+
+    list-style-type: none;	/* Get rid of bullets. */
+}
+
+
+
+
+
+/* Layout the navigation bar menu items. */
+
+.nav-bar li {
+    background-color: maroon; /* Menu items should be greenish albeit darker than the
+				    navigation bar background.  */
+
+    border: 4px solid sienna; /* Use a border to space the menu items from each other with the
+				 same color as the menu bar background, so it appears to be
+				 legitimate space. */
+
+    text-align: center;		/* Centralize the text of the menu item. */
+}
+
+
+
+
+
+/* Layout menu items anchors. */
+
+/* Normal state; */
+.nav-bar a {
+    text-decoration: none; 	/* Get rid of the standard underline. */
+    color: white;		/* Make text white for visibility sake.'*/
+    font-weight: bold;		/* Make text bold also for visibility sake.'*/
+    display: block;		/* Make the anchor fill the full width.  */
+    white-space: nowrap;
+}
+
+/* Mouse hovering over it. */
+.nav-bar a:hover {
+    color: black;		/* Make the text black for a effect of inversion. */
+    background: orange;		/* Use a greenish color for a highlight effect. */
+    border-color: black;
+}
+
+/* Top-level menu items anchors. */
+.nav-bar > li > a {
+    border: 2px solid white;	/* Add a nice highlighted border. */
+}
+
+
+
+
+
+/* Layout a navigation bar row. */
+
+.nav-bar {
+    display: table;		/* Display a row as a table in order to distribute menu items
+				   nicely within it.*/
+    width: 100%;		/* Expands the row through the full width. */
+}
+
+
+
+
+/* Layout navigation bar menu items. */
+
+/* Top-level menu items. */
+.nav-bar > li {
+    display: table-cell;	/* Display the menu items as table cells in order to distribute
+				   them nicely through the row, which is displayed as a table for
+				   this exact purpose. */
+}
+
+/* Sub-menu menu items. */
+.nav-bar ul > li {
+    border: 0px;		/* No border. */
+    font-size: smaller;		/* Sub-menu items should look smaller than their parent
+				   menu-item. */
+}
+
+
+
+
+
+/* Workaround: layout 'div' elements so you can use it to correct
+relative-absolute positioning for table-cells.  This is needed to
+right position sub-menus.  */
+
+.nav-bar div {
+    position: relative;
+}
+
+
+
+
+
+/* Layout sub-menus. */
+
+.nav-bar ul {
+    display: none; 		/* Sub-menus are hidden by default. */
+
+    position: absolute;		/* Detach them from the navigation bar layer in order to make a
+				   "floating" drop-down menu. */
+
+    z-index: 1;			/* Put the drop-down menu over the navigation bar. */
+
+    width: 100%;		/* Make sub-menus as large as their parent menu item. */
+
+    left: 0px;			/* Put sub-menus right below their parent menu item. */
+
+    top: -2px;
+
+    padding: inherit;		/* Sub-menus inherit the padding of their parent menu item.
+				   Usually this means no pad. */
+
+    border: 2px solid black;	/* Sub-menus have a nice highlighted border. */
+
+    /* border-top: 0px;		/\* Sub-menus should not have a top border because their parent */
+    /* 				   menu item has a bottom border. *\/ */
+
+    -moz-box-sizing: border-box;
+
+    -webkit-box-sizing: border-box;
+
+    box-sizing: border-box;	/* Use internal border so the sub-menu size is not affected. */
+
+    list-style-type: inherit;	/* They need the same list type as the menus.  Probably it will
+				   be with no bullets.*/
+
+}
+
+/* Show sub-menu event. */
+.nav-bar a:hover + div > ul,
+.nav-bar a + div > ul:hover {
+    display: inherit;
+}

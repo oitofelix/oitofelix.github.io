@@ -1,0 +1,520 @@
+---
+license: CC BY-ND 4.0
+---
+<!DOCTYPE html>
+
+<!--
+
+  Copyright (C) 2014, 2015 Bruno Félix Rezende Ribeiro
+  <oitofelix@riseup.net>
+
+  This work is licensed under a Creative Commons
+  Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+  You are free to copy and redistribute the material in any medium or
+  format, for any purpose, provided you abide to the license terms.
+
+  http://creativecommons.org/licenses/by-nd/4.0/
+
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+  <!-- ===================== HEAD ===================== -->
+
+  <head>
+
+    <!-- Common elements -->
+    {% include head-common.html %}
+
+    <title>oitofelix - about this site</title>
+
+    <!-- Metadata -->
+    <meta name="description" content="About the homepage of oitofelix" />
+    <meta name="keywords" content="homepage" />
+
+    <!-- External resources -->
+    <link rel="stylesheet" href="about-this-site.css" />
+    <script src="/scripts/jquery-1.6.4.min.js"></script>
+    <script src="/scripts/jquery.jfeed.pack.js"></script>
+    <script src="/scripts/feed2html.js"></script>
+    <script>fetchFeed ('/feed.xml', Infinity, '#news-result');</script>
+    <link rel="stylesheet" href="/styles/news-feed.css" />
+
+  </head>
+
+
+
+
+  <!-- ===================== BODY ===================== -->
+
+  <body>
+
+    <!-- ===================== DOCUMENT HEADER  ===================== -->
+    <header>
+      {% include header.html %}
+    </header>
+
+
+    <main>
+
+      <!-- ===================== About this site ===================== -->
+      <article>
+	<header id="start">
+	  <h2>About this site</h2>
+
+	  <!-- ===================== Navigation Menu ===================== -->
+	  <nav>
+	    <ul class="nav-bar">
+
+	      <!-- Licensing -->
+	      <li>
+		<a href="#licensing">Licensing</a>
+		<div>
+		  <ul>
+		    <li>
+		      <a href="#html">HTML</a>
+		    </li>
+		    <li>
+		      <a href="#css">CSS</a>
+		    </li>
+		    <li>
+		      <a href="#rss">RSS</a>
+		    </li>
+		    <li>
+		      <a href="#javascript">JavaScript</a>
+		    </li>
+		  </ul>
+		</div>
+	      </li>
+
+	      <!-- Sitemap -->
+	      <li><a href="#sitemap">Sitemap</a></li>
+
+	      <!-- News -->
+	      <li><a href="#news">News</a></li>
+
+	      <!-- Contact me -->
+	      <li><a href="#contact-me">Contact me</a></li>
+
+	    </ul>
+	  </nav>
+
+	  <p>
+	    All this site web pages are written
+	    by <dfn title="oitofelix">me</dfn>, and only by me, using the
+	    following computer languages:
+	  </p>
+
+	  <ul>
+	    <li><i>XHTML5</i> for content;</li>
+	    <li><i>CSS 3</i> for styling;</li>
+	    <li><i>RSS 2.0</i> for news feed;</li>
+	    <li><i>JavaScript</i> for client-side scripting;</li>
+	    <li><i>Jekyll</i> for templating;</li>
+	  </ul>
+
+	  <p>
+	    Every page is intended to be totally compliant with the
+	    respective published web standard.  For that end, the
+	    footer of every page has logos which link to canonical
+	    markup validation engines.  Please, note that
+	    the <i>HTML5</i> validation always issues one warning and
+	    error since it's experimental and the use of <i>JavaScript
+	      Web Labels</i> is not officially standardized,
+	    respectively.
+	  </p>
+
+	  <p>
+	    I'm a big fan of mid 90's web look and feel, and full-width
+	    article-like web pages.  I've styled this site with that in
+	    mind.
+	  </p>
+
+	  <p>
+	    No <abbr title="What You See Is What You Get">WYSIWYG</abbr>
+	    editor is used.  <em>All code is written by hand
+	    using the one true editor: <strong>GNU Emacs</strong>.</em>
+	  </p>
+
+	  <p>
+	    This site is kindly hosted by
+	    <a href="http://pages.github.com/">GitHub Pages</a>.
+	  </p>
+
+	</header>
+
+
+
+
+	<!-- ===================== Licensing ===================== -->
+	<section id="licensing">
+	  <h2>Licensing</h2>
+
+
+	  <!-- HTML -->
+	  <section id="html">
+	    <h3>HTML</h3>
+
+	    <p>
+	      All <i>HTML</i> pages have a license information in their footer
+	      regarding the rights of use and redistribution of their
+	      respective contents.  Every page is under some kind
+	      of <em>Creative Commons</em> license, specifically stated within
+	      the page itself, but loosely determined by the rules below:
+	    </p>
+
+	    <ol>
+	      <li>
+		Any page which expresses my opinion, is applicable only to a
+		personal or very particular situation, isn't widely useful for
+		others to modify, is non-educational, or is somewhat trivial,
+		is licensed under a verbatim copying license, namely
+		<a href="http://creativecommons.org/licenses/by-nd/4.0/">
+		  <abbr title="Creative Commons Attribution-NoDerivatives 4.0 International">
+		    CC BY-ND 4.0</abbr></a>.
+	      </li>
+	      <li>
+		Pages that don't categorize as such are usually released under a
+		free copyleft license, namely
+		<a href="https://creativecommons.org/licenses/by-sa/4.0/">
+		  <abbr title="Creative Commons Attribution-ShareAlike 4.0 International">
+		    CC BY-SA 4.0</abbr></a>.
+	      </li>
+	      <li>
+		As the copyright holder I make an exception for the markup
+		structure of every page <small>(where copyright law is
+		  applicable)</small>, putting them into the <em>public
+		  domain</em> — so you can use it without any restriction,
+		as long as you remove the underlying original content,
+		optionally replacing it by other content you have rights on.
+	      </li>
+	    </ol>
+
+	    <p>
+	      If, for some reason, you think it may be useful to modify and
+	      redistribute some of these verbatim-licensed pages, please
+	      contact me and I'll consider releasing it abroad under a more
+	      appropriate and freer license or, in case I evaluate that as not
+	      adequate, I might consider granting you non-exclusive rights of
+	      modification and redistribution specifically, and solely, for
+	      your intended use.
+	    </p>
+
+	  </section>
+
+
+	  <!-- CSS -->
+	  <section id="css">
+	    <h3>CSS</h3>
+
+	    <p>
+	      All <i>CSS</i> files are released under the terms of a copyleft
+	      free software license, namely the
+	      <a href="http://www.gnu.org/licenses/gpl-3.0.html">
+		<abbr title="GNU General Public License version 3 or any later version">
+		  GPLv3+</abbr></a>, unless otherwise noted within the file
+	      itself.
+	    </p>
+
+	  </section>
+
+
+	  <!-- RSS -->
+	  <section id="rss">
+	    <h3>RSS</h3>
+
+	    <p>
+	      Every <i>RSS</i> news feed in this site is released under a
+	      verbatim copying license, namely <em>CC BY-ND 4.0</em>.
+	    </p>
+
+	  </section>
+
+
+	  <!-- JavaScript -->
+	  <section id="javascript">
+	    <h3>JavaScript</h3>
+
+	    <p>
+	      As extensively explained in <em>Richard Stallman</em>'s article
+	      <a href="http://www.gnu.org/philosophy/javascript-trap.html">
+		<cite>The JavaScript Trap</cite></a>, JavaScript code must be
+	      free software.  Below is a table listing the scripts used
+	      throughout this site, their licenses and a link to retrieve
+	      their respective source code.  This table
+	      implements
+	      <a href="http://www.gnu.org/licenses/javascript-labels.html">
+		<i>JavaScript Web Labels</i></a> as defined by
+	      the <i>GNU Project</i>, and as such should be
+	      <a href="http://www.gnu.org/software/librejs/">
+		<i>GNU LibreJS</i></a> compliant.  To help users find out
+	      about their rights and have access to the source code of
+	      JavaScript code they are running, every page has an
+	      orange <i>LibreJS</i> logo in its footer linking to this
+	      section.
+	    </p>
+
+	    <table id="jslicense-labels1">
+	      <thead>
+		<tr>
+		  <th>Script</th>
+		  <th>License</th>
+		  <th>Source</th>
+		</tr>
+	      </thead>
+	      <tbody>
+		<tr class="package-name"><td colspan="3">jQuery</td></tr>
+		<tr>
+		  <td><a href="/scripts/jquery-1.6.4.min.js">jquery-1.6.4.min.js</a></td>
+		  <td>
+		    <a href="http://www.jclark.com/xml/copying.txt">Expat</a>
+		  </td>
+		  <td>
+		    <a href="/scripts/jquery-1.6.4.js.gz">jquery-1.6.4.js.gz</a>
+		  </td>
+		</tr>
+		<tr class="package-name"><td colspan="3">jFeed</td></tr>
+		<tr>
+		  <td><a href="/scripts/jquery.jfeed.pack.js">jquery.jfeed.pack.js</a></td>
+		  <td rowspan="2">
+		    <a href="http://www.jclark.com/xml/copying.txt">Expat</a>
+		  </td>
+		  <td>
+		    <a href="/scripts/jFeed-20110926.tar.gz">jFeed-20110926.tar.gz</a>
+		  </td>
+		</tr>
+		<tr>
+		  <td><a href="/scripts/feed2html.js">feed2html.js</a></td>
+		  <td>
+		    <a href="/scripts/feed2html.js">feed2html.js</a>
+		  </td>
+		</tr>
+	      </tbody>
+	    </table>
+
+	  </section>
+
+
+	</section>
+
+
+
+
+	<!-- ===================== Sitemap ===================== -->
+	<section id="sitemap">
+	  <h2>Sitemap</h2>
+
+	  <ul>
+
+	    <!-- Front page -->
+	    <li><a href="/">Front page</a></li>
+
+	    <!-- About me -->
+	    <li><a href="/about-me.html">About me</a></li>
+
+	    <!-- Curriculum -->
+	    <li><a href="/curriculum.html">Curriculum</a></li>
+
+	    <!-- Public keys -->
+	    <li><a href="/keys.html">Keys</a></li>
+
+	    <!-- Funding -->
+	    <li><a href="/funding.html">Funding</a></li>
+
+	    <!-- About this site -->
+	    <li><a href="/about-this-site.html">About this site</a></li>
+
+	  </ul>
+
+	</section>
+
+
+
+
+	<!-- ===================== News ===================== -->
+	<section id="news">
+	  <h2>News</h2>
+	  <a href="/feed.xml">
+	    <img src="/images/rss-logo.png"
+		 title="RSS 2.0"
+		 alt="RSS 2.0"
+		 width="24" height="24" /></a>
+
+	  <div id="news-result" />
+	</section>
+
+
+
+
+	<!-- ===================== Contact me ===================== -->
+	<section id="contact-me">
+	  <h2>Contact me</h2>
+
+	  <p>
+	    There are several means by which you can contact me: email
+	    (some different servers), instant messaging (numerous IRC
+	    and XMPP servers) and (numerous) social networks.  Use the
+	    method that suits you best, but encrypted mail to
+	    <a href="mailto:oitofelix@riseup.net">oitofelix@riseup.net</a>
+	    is the preferred method.
+	  </p>
+
+	  <table id="personal-information-table">
+	    <tbody>
+	      <tr>
+		<th class="dark">Name</th>
+		<td colspan="4">Bruno Félix Rezende Ribeiro</td>
+	      </tr>
+	      <tr>
+		<th>Nickname</th>
+		<td colspan="4">oitofelix</td>
+	      </tr>
+	      <tr>
+		<th class="dark">GPG key</th>
+		<td colspan="4">
+  		  7CB1 208C 7336 56B7 5962  2500 27B9 C6FD 28D6 18AF
+		</td>
+	      </tr>
+	      <tr>
+		<th>OpenSSH key</th>
+		<td colspan="4">
+  		  c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e
+		</td>
+	      </tr>
+	      <tr>
+		<th class="dark">Webspace</th>
+		<td colspan="4">
+		  <a href="http://oitofelix.github.io/"
+		     title="Personal">http://oitofelix.github.io/</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th>Gopherspace</th>
+		<td colspan="4">
+		  <a href="gopher://freeshell.org/1/users/oitofelix/"
+		     title="Personal">gopher://freeshell.org/1/users/oitofelix/</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th class="dark">Email</th>
+		<td colspan="1">
+		  <a href="mailto:oitofelix@gnu.org"
+		     title="GNU">oitofelix@gnu.org</a>
+		</td>
+		<td colspan="2">
+		  <a href="mailto:oitofelix@riseup.net"
+		     title="Personal">oitofelix@riseup.net</a>
+		</td>
+		<td colspan="1">
+		  <a href="mailto:oitofelix@mat.ufu.br"
+		     title="Academic">oitofelix@mat.ufu.br</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th>IRC</th>
+		<td colspan="1">
+		  <a href="irc://irc.freenode.net/oitofelix"
+		     title="GNU">oitofelix@freenode</a>
+		</td>
+		<td colspan="2">
+		  <a href="irc://irc.oftc.net/oitofelix"
+		     title="Debian">oitofelix@oftc</a>
+		</td>
+		<td colspan="1">
+		  <a href="irc://irc.mozilla.org/oitofelix"
+		     title="Mozilla">oitofelix@moznet</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th class="dark">XMPP</th>
+		<td colspan="1">
+		  <a href="xmpp:oitofelix@riseup.net"
+		     title="Personal">oitofelix@riseup.net</a>
+		</td>
+		<td colspan="1">
+		  <a href="xmpp:oitofelix@jabber.sdf.org"
+		     title="Personal">oitofelix@jabber.sdf.org</a>
+		</td>
+		<td colspan="1">
+		  <a href="xmpp:oitofelix@jabber.org"
+		     title="Personal">oitofelix@jabber.org</a>
+		</td>
+		<td colspan="1">
+		  <a href="xmpp:oitofelix@dukgo.com"
+		     title="Personal">oitofelix@dukgo.com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th>TOX</th>
+		<td colspan="4">
+		  <a href="tox:oitofelix@toxme.se"
+		     title="Personal">oitofelix@toxme.se</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th class="dark">GNU Social</th>
+		<td colspan="4">
+		  <a href="http://wm.sdf.org/gs/oitofelix"
+		     title="Personal">http://wm.sdf.org/gs/oitofelix</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th>Friendica</th>
+		<td colspan="4">
+		  <a href="friendica:oitofelix@wm.sdf.org"
+		     title="Personal">oitofelix@wm.sdf.org</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th class="dark">Diaspora*</th>
+		<td colspan="4">
+		  <a href="diaspora:oitofelix@dia.sdf.org"
+		     title="Personal">oitofelix@dia.sdf.org</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th>Pump.io</th>
+		<td colspan="4">
+		  <a href="http://identi.ca/oitofelix"
+		     title="Personal">http://identi.ca/oitofelix</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th class="dark">Twister</th>
+		<td colspan="4">
+		  <a href="twister:@oitofelix"
+		     title="Personal">@oitofelix</a>
+		</td>
+	      </tr>
+	      <tr>
+		<th>Movim</th>
+		<td colspan="4">
+		  <a href="xmpp://xmpp:oitofelix@dukgo.com"
+		     title="Personal">oitofelix@dukgo.com</a>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+
+	  
+	</section>
+
+
+
+
+	<!-- ===================== ARTICLE FOOTER ===================== -->
+	<footer>
+	  <!-- ===================== Copyright Notice ===================== -->
+
+	  {% include copyright-notice.html %}
+	</footer>
+
+      </article>
+
+    </main>
+
+    <!-- ===================== DOCUMENT FOOTER ===================== -->
+    {% include footer.html %}
+
+  </body>
+</html>
