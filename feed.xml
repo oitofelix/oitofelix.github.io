@@ -36,6 +36,18 @@
       <height>64</height>
     </image>
 
+    <!-- Published documentation: GNU philosophy -->
+    <item>
+      <title>Published documentation: GNU philosophy</title>
+      <link>http://oitofelix.github.io/gnu-philosophy/</link>
+      <description>
+	GNU philosophy is the GNU Project’s exhaustive collection of
+	articles and essays about free software and related matters.
+      </description>
+      <pubDate>Tue, 03 Mar 2015 06:10:29 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/gnu-philosophy/</guid>
+    </item>
+
     <!-- New hosting -->
     <item>
       <title>New hosting</title>
