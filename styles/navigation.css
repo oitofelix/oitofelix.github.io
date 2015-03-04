@@ -1,22 +1,3 @@
-/* navigation.css - CSS for page's navigation bar;
- *
- * To use it declare the top-level element (often a 'ul) as pertaining
- * to class "nav-bar".
- *
- * The navigation bar will be expanded to fill the full width
- * available.  If you want a navigation bar which expands on multiple
- * lines, define each row as an independent navigation bar and use CSS
- * to join them so they look as they were one.
- *
- * Every sub-menu (often a 'ul') element should be wrapped by a 'div'
- * element so the absolute-relative positioning works as intended.
- *
- */
-
-
-
-
-
 /* Layout the top-level element of the navigation bar. */
 
 .nav-bar {

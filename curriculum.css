@@ -1,68 +1,10 @@
-/*
- curriculum.css --- curriculum.html style;
-
- Copyright (C) 2014, 2015 Bruno Félix Rezende Ribeiro
-  <oitofelix@riseup.net>
-
- This program is free software; you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation; either version 3, or (at your option)
- any later version.
-
- This program is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
-
- You should have received a copy of the GNU General Public License
- along with this program.  If not, see <http://www.gnu.org/licenses/>.
-*/
-
-
-
-
-
-#titles-list {
-    background: darkgray;
-    text-align: center;
-    list-style: none;
-    padding: 0px;
-    border: 1px solid black;
-    font-weight: bold;
-}
-
-#titles-list li:nth-child(even) {
-    background: silver;
-    border-top: 1px solid black;
-}
-
-/* Photo of myself */
-#self-photo {
-    float: right;
+#markdown img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border: 4px solid black;
-    margin-bottom: 20px;
 }
 
-/* Personal information table */
-#identity-table {
-    font-family: monospace;
-    width: auto;
-    border: solid black 2px;
-}
-
-#identity-table td {
-    padding: 2px;
-}
-
-/* Skill tables remark */
-#skill-tables-remark {
-    text-align: right;
-}
-
-table {
-    margin-top: 20px;
-}
-
-h2 {
-    margin-top: 40px;
+#markdown h3 {
+    margin-bottom: 0px;
 }
