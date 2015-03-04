@@ -24,6 +24,11 @@
 	  href="http://creativecommons.org/licenses/by-nd/4.0/" />
     {% endif %}
 
+    {% if page.license == 'CC BY-SA 4.0' %}
+    <link rel="license"
+	  href="http://creativecommons.org/licenses/by-sa/4.0/" />
+    {% endif %}
+
     <style type="text/css">
      .nav-bar a[href="{{ page.url }}"] {
 	 color: black;
@@ -119,12 +124,27 @@
 		     width="88" height="31" /></a>
 		{% endif %}
 
+	      <!-- CC BY-ND 4.0 -->
+	      {% if page.license == 'CC BY-SA 4.0' %}
+	      <a href="http://creativecommons.org/licenses/by-sa/4.0/">
+		<img src="/images/cc-by-sa.png"
+		     title="CC BY-SA 4.0"
+		     alt="CC BY-SA 4.0"
+		     width="88" height="31" /></a>
+		{% endif %}
+
 		This work is licensed under a
 
 		<!-- CC BY-ND 4.0 -->
 		{% if page.license == 'CC BY-ND 4.0' %}
 		<abbr title="Creative Commons Attribution-NoDerivatives 4.0 International">
 		  CC BY-ND 4.0</abbr>
+		{% endif %}
+
+		<!-- CC BY-SA 4.0 -->
+		{% if page.license == 'CC BY-SA 4.0' %}
+		<abbr title="Creative Commons Attribution-ShareAlike 4.0 International">
+		  CC BY-SA 4.0</abbr>
 		{% endif %}
 
 		license.  You are free to copy and redistribute the material in
