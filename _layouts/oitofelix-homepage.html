@@ -30,7 +30,7 @@
     {% endif %}
 
     <style type="text/css">
-     .nav-bar a[href="{{ page.url }}"] {
+     .nav-bar a[href="{{ site.baseurl }}{% if site.baseurl != '' %}/{% endif %}{{ page.url }}"] {
 	 color: black;
 	 background-color: red;
 	 border-color: black;
@@ -170,11 +170,11 @@
 	    <!-- Licenses -->
 	    <li><a href="/about-this-site.html#licensing">Licensing</a></li>
 
-	    <!-- News -->
-	    <li><a href="/about-this-site.html#news">News</a></li>
-
 	    <!-- Contact me -->
 	    <li><a href="/about-this-site.html#contact-me">Contact me</a></li>
+
+	    <!-- News -->
+	    <li><a href="/about-this-site.html#news">News</a></li>
 
 	  </ul>
 	</nav>
