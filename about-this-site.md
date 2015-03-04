@@ -7,6 +7,7 @@ layout: oitofelix-homepage
 news: [Infinity, '#news-result']
 ---
 <div id="markdown" markdown="1">
+<div id="start" />
 ## About this site
 
 - All these web pages are written by me.
