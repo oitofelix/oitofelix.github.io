@@ -36,6 +36,19 @@
       <height>64</height>
     </image>
 
+    <!-- Published presentation: TLS: Libre Software -->
+    <item>
+      <title>Published presentation: TLS: Libre Software</title>
+      <link>http://oitofelix.github.io/presentation-tls-libre-software/</link>
+      <description>
+	The ‘TLS: Libre Software’ presentation argues in favor of free
+	software as a viable market strategy for companies. It’s
+	currently available only in Portuguese.
+      </description>
+      <pubDate>Tue, 03 Mar 2015 21:55:27 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/presentation-tls-libre-software/</guid>
+    </item>
+
     <!-- Published documentation: GNU philosophy -->
     <item>
       <title>Published documentation: GNU philosophy</title>
