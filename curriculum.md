@@ -33,7 +33,6 @@ SSH      | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 
 Project | Skills
 --------|--------
-[oitofelix's homepage](/) | HTML5, CSS3, JavaScript, RSS 2.0,Jekyll, Git, GitHub, Emacs
 [GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | Autoconf, M4, Automake, Make, Texinfo, C, Doxygen, Bash, CVS, Savannah, GDB, Emacs
 [grunt-hardlink](http://www.npmjs.com/package/grunt-hardlink) | Node.js, NPM, Grunt, JavaScript, Git, GitHub, Emacs
 [HP 50g JV](http://www.hpcalc.org/details.php?id=7171) | HP 50g System RPL
@@ -43,6 +42,7 @@ Project | Skills
 
 Project | Skills
 --------|--------
+[oitofelix's homepage](/) | HTML5, CSS3, JavaScript, RSS 2.0,Jekyll, Git, GitHub, Emacs
 [GNU philosophy](gnu-philosophy/) | Texinfo, Unifont, ImageMagick, PO4A, Autoconf, M4, Automake, Make, Bash, Emacs
 
 
