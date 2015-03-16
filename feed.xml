@@ -36,6 +36,21 @@
       <height>64</height>
     </image>
 
+    <!-- Published article: Savannah CVS to Git migration -->
+    <item>
+      <title>Published article: Savannah CVS to Git migration</title>
+      <link>http://oitofelix.github.io/article-savannah-cvs-to-git-migration/</link>
+      <description>
+	The ‘Savannah CVS to Git migration’ article guides the reader
+	through the necessary steps in migrating a Savannah hosted
+	project that uses CVS as its VCS (Version Control System) to
+	the more modern and powerful Git, preserving all the project's
+	history and improving the user naming in commit records.
+      </description>
+      <pubDate>Mon, 16 Mar 2015 19:00:56 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/article-savannah-cvs-to-git-migration/</guid>
+    </item>
+
     <!-- Published presentation: TLS: Libre Software -->
     <item>
       <title>Published presentation: TLS: Libre Software</title>
