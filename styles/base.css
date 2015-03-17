@@ -146,3 +146,8 @@ body > header {
 #markdown #identity table tr:nth-child(odd) td:first-child {
     background: dimgray;
 }
+
+#markdown .poem {
+    font-family: sans-serif;
+    text-align: center;
+}
