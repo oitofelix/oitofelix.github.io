@@ -56,8 +56,10 @@ all those areas having chosen to pursue career as a _computer
 programmer_ and _system administrator_ because of my long standing
 affinity with computers.
 
-<!-- Music I like -->
+### Personal Projects
 
-<!-- Movies I like -->
+Project | Skills
+--------|--------
+[Assassinos Matinais](assassinos-matinais/) | Poetry, Music
 
 </div>

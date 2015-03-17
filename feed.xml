@@ -36,6 +36,23 @@
       <height>64</height>
     </image>
 
+    <!-- Published personal project: Assassinos Matinais -->
+    <item>
+      <title>Published personal project: Assassinos Matinais</title>
+      <link>http://oitofelix.github.io/assassinos-matinais/</link>
+      <description>
+	Assassinos Matinais is a project of poetry and music comprised
+	of a ideology that speaks about platonic love, things
+	impossible to achieve, existence, contradiction and truth,
+	using a melancholic, critic, ironic and rhetoric tone, in
+	which melancholy is defined as the mixed feeling of sadness
+	and amusement caused by helplessness in face of an invariable
+	and universal truth.
+      </description>
+      <pubDate>Tue, 17 Mar 2015 16:50:51 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/assassinos-matinais/</guid>
+    </item>
+
     <!-- Published article: Savannah CVS to Git migration -->
     <item>
       <title>Published article: Savannah CVS to Git migration</title>
