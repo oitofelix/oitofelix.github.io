@@ -36,12 +36,20 @@ h1, h2, h3, h4, h5, h6 {
     clear: both;
 }
 
+h2 {
+    background-color: darkred;
+}
+
 h3 {
-    background-color: navy;
+    background-color: darkblue;
 }
 
 h4 {
     background-color: darkgreen;
+}
+
+h5 {
+    background-color: darkcyan;
 }
 
 img {
