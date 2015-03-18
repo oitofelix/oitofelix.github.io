@@ -38,7 +38,7 @@ SSH      | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 [UFU FAMAT PET Member](http://www.portal.famat.ufu.br/node/274)|
 
 
-### Published Software
+### Software
 
 Project | Skills
 --------|--------
@@ -47,7 +47,7 @@ Project | Skills
 [HP 50g JV](http://www.hpcalc.org/details.php?id=7171) | HP 50g System RPL
 
 
-### Published Documentation
+### Documentation
 
 Project | Skills
 --------|--------
@@ -55,28 +55,28 @@ Project | Skills
 [GNU philosophy](gnu-philosophy/) | Texinfo, Unifont, ImageMagick, PO4A, Autoconf, M4, Automake, Make, Bash, Emacs
 
 
-### Published Articles
+### Articles
 
 Project | Skills
 --------|--------
 [Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | cvs2git, cvs-fast-export, rsync, CVS, Git, Savannah
 
 
-### Published Presentations
+### Presentations
 
 Project | Skills
 --------|--------
 [TLS: Libre Software](presentation-tls-libre-software/) | LibreOffice Impress, Free software movement philosophy and history
 
 
-### Published Papers
+### Papers
 
 Project | Skills
 --------|--------
 [XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | C, Numerical resolution of partial differential equations, Portuguese
 
 
-### Published Translations
+### Translations
 
 Project | Skills
 --------|--------
