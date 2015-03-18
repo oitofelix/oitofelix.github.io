@@ -52,6 +52,10 @@ h5 {
     background-color: darkcyan;
 }
 
+h6 {
+    background-color: darkgoldenrod;
+}
+
 img {
     vertical-align: middle;
 }
