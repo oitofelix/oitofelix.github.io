@@ -76,4 +76,11 @@ Project | Skills
 [XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | C, Numerical resolution of partial differential equations, Portuguese
 
 
+### Published Translations
+
+Project | Skills
+--------|--------
+[Stallman speech on free software](translation-stallman-speech-on-free-software) | English, Portuguese, Free software movement philosophy and history
+
+
 </div>
