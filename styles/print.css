@@ -1,0 +1,7 @@
+body > header, body > footer {
+    display: none;
+}
+
+html {
+    background-color: transparent !important;
+}
