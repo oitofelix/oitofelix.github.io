@@ -5,3 +5,11 @@ body > header, body > footer {
 html {
     background-color: transparent !important;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+}
+
+p {
+    page-break-inside: avoid;
+}
