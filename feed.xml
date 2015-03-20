@@ -36,6 +36,19 @@
       <height>64</height>
     </image>
 
+    <!-- Published article: GPG and SSH key handling -->
+    <item>
+      <title>Published article: GPG and SSH key handling</title>
+      <link>http://oitofelix.github.io/article-gpg-and-ssh-key-handling/</link>
+      <description>
+	The "GPG and SSH key handling" article shows how to handle GPG
+	and SSH cryptographic keys for common use cases.  Currently,
+	it covers the importing and validation of my public keys.
+      </description>
+      <pubDate>Fri, 20 Mar 2015 12:09:41 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/article-gpg-and-ssh-key-handling/</guid>
+    </item>
+
     <!-- Published translation: Stallman speech on free software -->
     <item>
       <title>Published translation: Stallman speech on free software</title>
