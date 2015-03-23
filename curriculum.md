@@ -34,8 +34,10 @@ SSH      | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 
 ### Titles
 
-[GNU Maintainer](http://www.gnu.org/people/#b)|
-[UFU FAMAT PET Member](http://www.portal.famat.ufu.br/node/274)|
+Designation | Organization
+------------|--------------
+[Maintainer/Programmer](http://www.gnu.org/people/#b)| [GNU Project](http://www.gnu.org/)
+[PET member](http://www.portal.famat.ufu.br/node/274)| [UFU FAMAT](http://www.famat.ufu.br/)
 
 
 ### Software
@@ -93,7 +95,7 @@ Project | Skills
 - Providing support for users and developers of the GNU+Linux
   operating system in several mailing lists and IRC channels for many
   years
-- Managing (GNU/)Linux systems in networked environments as a system
+- Managing GNU+Linux systems in networked environments as a system
   administrator
 - Assembling personal computers from component parts and
   fault-diagnosing hardware as a computer technician
