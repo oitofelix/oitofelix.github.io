@@ -34,7 +34,7 @@ SSH      | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 
 ### Titles
 
-Designation | Organization
+Position | Organization
 ------------|--------------
 [Maintainer/Programmer](http://www.gnu.org/people/#b)| [GNU Project](http://www.gnu.org/)
 [PET member](http://www.portal.famat.ufu.br/node/274)| [UFU FAMAT](http://www.famat.ufu.br/)
