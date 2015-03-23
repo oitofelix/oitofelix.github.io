@@ -18,3 +18,30 @@
 #markdown h3 {
     margin-bottom: 0px;
 }
+
+#markdown ul {
+    display: table;
+    text-align: center;
+    background-color: darkgray;
+    padding: 0px;
+    border: 1px solid black;
+    margin-top: 0px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#markdown ul > li {
+    float: left;
+    border-bottom: 1px solid black;
+    width: 100%;
+    padding: 4px;
+    box-sizing: border-box;
+}
+
+#markdown ul > li:last-of-type {
+    border: none;
+}
+
+#markdown ul > li:nth-child(even) {
+    background-color: silver;
+}

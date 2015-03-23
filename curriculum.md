@@ -84,4 +84,19 @@ Project | Skills
 [Stallman speech on free software](translation-stallman-speech-on-free-software) | English, Portuguese, Free software movement philosophy and history
 
 
+### Additional Experience
+
+- Building, improving and maintaining for two years his own version of
+  the GNU+Linux-libre operating system, based on
+  [(GNU/)Linux from scratch](http://www.linuxfromscratch.org/)
+- Setting up and using several flavors of GNU/Linux distributions
+- Providing support for users and developers of the GNU+Linux
+  operating system in several mailing lists and IRC channels for many
+  years
+- Managing (GNU/)Linux systems in networked environments as a system
+  administrator
+- Assembling personal computers from component parts and
+  fault-diagnosing hardware as a computer technician
+
+
 </div>
