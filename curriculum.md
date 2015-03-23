@@ -69,7 +69,7 @@ Project | Skills
 
 Project | Skills
 --------|--------
-[TLS: Libre Software](presentation-tls-libre-software/) | LibreOffice Impress, Free software movement philosophy and history
+[TLS: Libre Software](presentation-tls-libre-software/) | LibreOffice Impress, Free software movement philosophy and history, Portuguese
 
 
 ### Papers
