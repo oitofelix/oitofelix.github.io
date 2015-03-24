@@ -58,12 +58,14 @@ Project | Skills
 [GNU philosophy](gnu-philosophy/) | Texinfo, Unifont, ImageMagick, PO4A, Autoconf, M4, Automake, Make, Bash, Emacs
 
 
+<div class="table" markdown="1">
 ### Articles
 
 Project | Skills
 --------|--------
 [Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | cvs2git, cvs-fast-export, rsync, CVS, Git, Savannah
 [GPG and SSH key handling](article-gpg-and-ssh-key-handling/) | GPG, OpenSSH, WebPG
+</div>
 
 
 ### Presentations
