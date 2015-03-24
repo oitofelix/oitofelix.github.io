@@ -38,7 +38,7 @@ SSH      | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 ### Titles
 
 Position | Organization
-------------|--------------
+---------|--------------
 [Maintainer/Programmer](http://www.gnu.org/people/#b)| [GNU Project](http://www.gnu.org/)
 [PET member](http://www.portal.famat.ufu.br/node/274)| [UFU FAMAT](http://www.famat.ufu.br/)
 
@@ -63,8 +63,6 @@ Project | Skills
 <div class="no-break" markdown="1">
 ### Documentation
 
-Project | Skills
---------|--------
 [oitofelix's homepage](/) | HTML5, CSS3, JavaScript, RSS 2.0,Jekyll, Git, GitHub, Emacs
 [GNU philosophy](gnu-philosophy/) | Texinfo, Unifont, ImageMagick, PO4A, Autoconf, M4, Automake, Make, Bash, Emacs
 
@@ -75,8 +73,6 @@ Project | Skills
 <div class="no-break" markdown="1">
 ### Articles
 
-Project | Skills
---------|--------
 [Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | cvs2git, cvs-fast-export, rsync, CVS, Git, Savannah
 [GPG and SSH key handling](article-gpg-and-ssh-key-handling/) | GPG, OpenSSH, WebPG
 
@@ -87,8 +83,6 @@ Project | Skills
 <div class="no-break" markdown="1">
 ### Presentations
 
-Project | Skills
---------|--------
 [TLS: Libre Software](presentation-tls-libre-software/) | LibreOffice Impress, Free software movement philosophy and history, Portuguese
 
 </div>
@@ -98,8 +92,6 @@ Project | Skills
 <div class="no-break" markdown="1">
 ### Papers
 
-Project | Skills
---------|--------
 [XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | C, Numerical resolution of partial differential equations, Portuguese
 
 </div>
@@ -109,8 +101,6 @@ Project | Skills
 <div class="no-break" markdown="1">
 ### Translations
 
-Project | Skills
---------|--------
 [Stallman speech on free software](translation-stallman-speech-on-free-software) | English, Portuguese, Free software movement philosophy and history
 
 </div>
