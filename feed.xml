@@ -36,6 +36,23 @@
       <height>64</height>
     </image>
 
+    <!-- Published software: PlayStation 2 Linux -->
+    <item>
+      <title>Published software: PlayStation 2 Linux</title>
+      <link>http://oitofelix.github.io/ps2-linux/</link>
+      <description>
+	Between June and July 2012 I worked with the PlayStation 2
+	Linux developers of the PSX Scene community, collaborating and
+	sharing experiences, in order to improve the port of Linux 2.6
+	to the video game console Sony PlayStation 2.  I improved the
+	PS1 memory card support, wrote SBIOS and Linux Multi-tap pad
+	drivers, and upgraded kernelloader build system's png2rgb
+	image conversion tool to use libpng's 1.5 API.
+      </description>
+      <pubDate>Tue, 24 Mar 2015 01:28:17 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/ps2-linux/</guid>
+    </item>
+
     <!-- Published article: GPG and SSH key handling -->
     <item>
       <title>Published article: GPG and SSH key handling</title>
