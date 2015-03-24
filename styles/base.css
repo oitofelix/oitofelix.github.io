@@ -67,8 +67,8 @@ hr {
 }
 
 footer address {
-    border: 2px solid orange;
-    background-color: yellow;
+    border: 1px solid red;
+    background-color: orange;
     padding: 4px;
     margin-top: 20px;
     text-align: center;
