@@ -32,6 +32,9 @@ SSH      | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 
 </div>
 
+
+<!-- Titles -->
+<div class="no-break" markdown="1">
 ### Titles
 
 Position | Organization
@@ -39,7 +42,11 @@ Position | Organization
 [Maintainer/Programmer](http://www.gnu.org/people/#b)| [GNU Project](http://www.gnu.org/)
 [PET member](http://www.portal.famat.ufu.br/node/274)| [UFU FAMAT](http://www.famat.ufu.br/)
 
+</div>
 
+
+<!-- Software -->
+<div class="no-break" markdown="1">
 ### Software
 
 Project | Skills
@@ -49,7 +56,11 @@ Project | Skills
 [PlayStation 2 Linux](ps2-linux/) | Linux device driver programming, png2rgb, libpng, TGE, SBIOS, IRX, C, patch, PS2 homebrew, XDMCP, NFS
 [HP 50g JV](http://www.hpcalc.org/details.php?id=7171) | HP 50g System RPL
 
+</div>
 
+
+<!-- Documentation -->
+<div class="no-break" markdown="1">
 ### Documentation
 
 Project | Skills
@@ -57,38 +68,56 @@ Project | Skills
 [oitofelix's homepage](/) | HTML5, CSS3, JavaScript, RSS 2.0,Jekyll, Git, GitHub, Emacs
 [GNU philosophy](gnu-philosophy/) | Texinfo, Unifont, ImageMagick, PO4A, Autoconf, M4, Automake, Make, Bash, Emacs
 
+</div>
 
-<div class="table" markdown="1">
+
+<!-- Articles -->
+<div class="no-break" markdown="1">
 ### Articles
 
 Project | Skills
 --------|--------
 [Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | cvs2git, cvs-fast-export, rsync, CVS, Git, Savannah
 [GPG and SSH key handling](article-gpg-and-ssh-key-handling/) | GPG, OpenSSH, WebPG
+
 </div>
 
 
+<!-- Presentations -->
+<div class="no-break" markdown="1">
 ### Presentations
 
 Project | Skills
 --------|--------
 [TLS: Libre Software](presentation-tls-libre-software/) | LibreOffice Impress, Free software movement philosophy and history, Portuguese
 
+</div>
 
+
+<!-- Papers -->
+<div class="no-break" markdown="1">
 ### Papers
 
 Project | Skills
 --------|--------
 [XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | C, Numerical resolution of partial differential equations, Portuguese
 
+</div>
 
+
+<!-- Translations -->
+<div class="no-break" markdown="1">
 ### Translations
 
 Project | Skills
 --------|--------
 [Stallman speech on free software](translation-stallman-speech-on-free-software) | English, Portuguese, Free software movement philosophy and history
 
+</div>
 
+
+<!-- Additional Experience -->
+<div class="no-break" markdown="1">
 ### Additional Experience
 
 - Building, improving and maintaining for two years his own version of
@@ -102,6 +131,8 @@ Project | Skills
   administrator
 - Assembling personal computers from component parts and
   fault-diagnosing hardware as a computer technician
+
+</div>
 
 
 </div>
