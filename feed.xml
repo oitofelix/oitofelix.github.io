@@ -36,6 +36,18 @@
       <height>64</height>
     </image>
 
+    <!-- Published software: MerpC, the Mobile ERP Client -->
+    <item>
+      <title>Published software: MerpC, the Mobile ERP Client</title>
+      <link>http://oitofelix.github.io/merpc/</link>
+      <description>
+	MerpC is the Mobile ERP Client --- a Cordova-based thin client
+	for ERP systems that I'm developing for Consultoria Online.
+      </description>
+      <pubDate>Thu, 26 Mar 2015 04:03:01 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/merpc/</guid>
+    </item>
+
     <!-- Published software: PlayStation 2 Linux -->
     <item>
       <title>Published software: PlayStation 2 Linux</title>

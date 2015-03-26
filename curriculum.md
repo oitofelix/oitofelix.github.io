@@ -53,6 +53,7 @@ Project | Skills
 --------|--------
 [GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | Autoconf, M4, Automake, Make, Texinfo, C, Doxygen, Bash, CVS, Savannah, GDB, Emacs
 [grunt-hardlink](http://www.npmjs.com/package/grunt-hardlink) | Node.js, NPM, Grunt, JavaScript, Git, GitHub, Emacs
+[MerpC](merpc/) | Cordova, HTML, CSS, JavaScript, Mobile, Web, ERP
 [PlayStation 2 Linux](ps2-linux/) | Linux device driver programming, png2rgb, libpng, TGE, SBIOS, IRX, C, patch, PS2 homebrew, XDMCP, NFS
 [HP 50g JV](http://www.hpcalc.org/details.php?id=7171) | HP 50g System RPL
 
