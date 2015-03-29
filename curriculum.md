@@ -102,7 +102,7 @@ Project | Skills
 <div class="no-break" markdown="1">
 ### Translations
 
-[Stallman speech on free software](translation-stallman-speech-on-free-software) | English, Portuguese, Free software movement philosophy and history
+[Stallman's speech on free software](translation-stallman-speech-on-free-software) | English, Portuguese, Free software movement philosophy and history
 
 </div>
 
