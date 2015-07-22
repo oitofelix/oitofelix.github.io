@@ -36,6 +36,26 @@
       <height>64</height>
     </image>
 
+    <!-- Published software: Terminal Matrix 8086 -->
+    <item>
+      <title>Published software: Terminal Matrix 8086</title>
+      <link>http://oitofelix.github.io/terminal-matrix-8086/</link>
+      <description>
+  Terminal Matrix is a very mysterious program.  It's said that it was
+  given to mankind in a spontaneous form of divine inspiration and
+  cybernetic insight.  Rumor has it that few people in the entire
+  world are able to master and use this program.  Some say, in an
+  expression of dubious lucidity, that only the chosen ones can really
+  do it.  There are a handful reports of very skilled hackers that
+  were able to crack TM's source code and understand the truth that
+  has never been seen before, and unlock its full potential.  The only
+  truth known for sure, though, is that much is said, but little is
+  known.
+      </description>
+      <pubDate>Wed, 22 Jul 2015 13:06:05 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/terminal-matrix-8086/</guid>
+    </item>
+
     <!-- Published software: MerpC, the Mobile ERP Client -->
     <item>
       <title>Published software: MerpC, the Mobile ERP Client</title>
