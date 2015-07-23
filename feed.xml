@@ -36,6 +36,21 @@
       <height>64</height>
     </image>
 
+    <!-- Published software: DeciMatrix 8086 -->
+    <item>
+      <title>Published software: DeciMatrix 8086</title>
+      <link>http://oitofelix.github.io/decimatrix-8086/</link>
+      <description>
+  DeciMatrix is a program designed to decode the Matrix into decimal.
+  It's a spin-off of the Terminal Matrix 8086's `DCMATRIX` command,
+  built into a standalone executable sharing the same metamorphic
+  property of run-within-OS-or-bootstrap-itself-without-OS provided by
+  the QDot language and its standard library.
+      </description>
+      <pubDate>Thu, 23 Jul 2015 00:42:01 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/decimatrix-8086/</guid>
+    </item>
+
     <!-- Published software: Terminal Matrix 8086 -->
     <item>
       <title>Published software: Terminal Matrix 8086</title>

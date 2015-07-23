@@ -53,6 +53,7 @@ Project | Skills
 --------|--------
 [GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | Autoconf, M4, Automake, Make, Texinfo, C, Doxygen, Bash, CVS, Savannah, GDB, Emacs
 [Terminal Matrix 8086](terminal-matrix-8086/) | QDot, 8086 Assembly, NASM, IBM-PC
+[DeciMatrix 8086](decimatrix-8086/) | QDot, 8086 Assembly, NASM, IBM-PC
 [grunt-hardlink](http://www.npmjs.com/package/grunt-hardlink) | Node.js, NPM, Grunt, JavaScript, Git, GitHub, Emacs
 [MerpC](merpc/) | Cordova, HTML, CSS, JavaScript, Mobile, Web, ERP
 [PlayStation 2 Linux](ps2-linux/) | Linux device driver programming, png2rgb, libpng, TGE, SBIOS, IRX, C, patch, PS2 homebrew, XDMCP, NFS
