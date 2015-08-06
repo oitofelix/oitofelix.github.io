@@ -36,6 +36,33 @@
       <height>64</height>
     </image>
 
+    <!-- Published software: QDot 8086 -->
+    <item>
+      <title>Published software: QDot 8086</title>
+      <link>http://oitofelix.github.io/qdot-8086/</link>
+      <description>
+  QDot 8086 is a mid-level programming language targeting the original
+  IBM-PC architecture written as a set of macros for NASM --- the
+  Netwide Assembler.  The idea behind it is to make it easy to write
+  small, fast, correct and maintainable code in a language almost as
+  expressive as C but without giving up all control Assembly language
+  grants to programmers.  It features support to functions of an
+  arbitrary number of parameters and multiple return values, global
+  and function-local variables, loop and conditional flow-control
+  constructs, evaluation of arbitrarily complex stack-based
+  expressions, symbol importing and primitive debugging.  QDot has
+  also a companion standard library that is fully BIOS-based, thus
+  OS-independent, which provides array processing, keyboard, video,
+  disk and speaker I/O, timing, low-level debugging, math functions,
+  user interface procedures and last but not least a versatile
+  metamorphic boot-loader, that makes it simple to build a binary that
+  is simultaneously a valid DOS executable and a bootable image --- a
+  property known as run-within-OS-or-bootstrap-itself-without-OS.
+      </description>
+      <pubDate>Thu, 06 Aug 2015 13:48:23 -0300</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/qdot-8086/</guid>
+    </item>
+
     <!-- Published software: DeciMatrix 8086 -->
     <item>
       <title>Published software: DeciMatrix 8086</title>
