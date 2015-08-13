@@ -4,6 +4,6 @@ input[type="image"] {
     margin-right: auto;
 }
 
-p > code {
+p#bitcoin-address {
     text-align: center;
 }

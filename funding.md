@@ -38,9 +38,9 @@ __Thanks for your support!__
 
 ### Bitcoin
 
-```
-17s4tPeZqHrKGpLyhSmoWciD2po8RCbAxt
-```
+<p id="bitcoin-address">
+<code>17s4tPeZqHrKGpLyhSmoWciD2po8RCbAxt</code>
+</p>
 
 
 ## Donors
