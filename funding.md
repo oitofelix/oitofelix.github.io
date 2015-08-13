@@ -12,7 +12,6 @@ voluntary.  You can support it by making a donation.  I appreciate
 contributions of any size – donations enable me to spend more time
 working for the free software community.  If you'd like to make a
 donation, of any value, please use one of the methods below.
-
 Unfortunately I can’t offer you tax deduction, but I’d be happy to
 recognize your contribution in the donors table below.  If you want
 recognition, please send a mail to
@@ -46,10 +45,10 @@ __Thanks for your support!__
 
 ## Donors
 
-The table below list people that have funded my work.  I couldn't have
-done so much without the invaluable help of these people, to whom I'd
-like to say: __Thank you very much!__  If you would
-appreciate your name listed below, _please donate!_
+The table below lists people that have funded my work.  I couldn't
+have done so much without the invaluable help of these people, to whom
+I'd like to say: __Thank you very much!__ If you would appreciate your
+name listed below, _please donate!_
 
 Name | Email | BTC
 -----|-------|-----
