@@ -32,6 +32,16 @@ SSH      | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 
 </div>
 
+I'm a computer programmer, system administrator, GNU hacker and free
+software activist.  In the free software community I work on the
+development of several projects of my own making, contribute to other
+projects, write documentation, publish technical and philosophical
+articles, do translation work, help in infrastructure maintenance,
+participate in discussions and give support to users.
+
+Below you can find a list of the titles I hold and my published works,
+demonstrating my experience.
+
 
 <!-- Titles -->
 <div class="no-break" markdown="1">
