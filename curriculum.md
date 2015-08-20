@@ -48,7 +48,7 @@ hold and my published works that demonstrate my areas of expertise.
 Position | Organization
 ---------|--------------
 [Maintainer/Programmer](http://www.gnu.org/people/#b) | [GNU Project](http://www.gnu.org/)
-[Editor, free software, Portuguese](http://www.dmoz.org/public/profile?editor=oitofelix) | [DMOZ](http://www.dmoz.org/)
+[Free software editor (Portuguese)](http://www.dmoz.org/public/profile?editor=oitofelix) | [DMOZ](http://www.dmoz.org/)
 [PET member](http://www.portal.famat.ufu.br/node/274) | [UFU FAMAT](http://www.famat.ufu.br/)
 
 </div>
