@@ -50,7 +50,7 @@ have done so much without the invaluable help of these people, to whom
 I'd like to say: __Thank you very much!__ If you would appreciate your
 name listed below, _please donate!_
 
-Name | Email | BTC
------|-------|-----
-Your name | Your email | Your generosity
-Consultoria Ti8 | none | R$ 232,00
+Name | Value
+-----|------
+Consultoria Ti8 | R$ 232,00
+Zak Rogoff | R$ 125,00
