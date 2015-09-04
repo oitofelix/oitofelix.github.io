@@ -53,3 +53,4 @@ name listed below, _please donate!_
 Name | Email | BTC
 -----|-------|-----
 Your name | Your email | Your generosity
+Consultoria Ti8 | none | R$ 232,00
