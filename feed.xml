@@ -36,6 +36,38 @@
       <height>64</height>
     </image>
 
+
+    <!-- Published translation: Free Software Is Even More Important Now -->
+    <item>
+      <title>Published translation: Free Software Is Even More Important Now</title>
+      <link>http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html</link>
+      <description>
+	The "Free Software Is Even More Important Now" is an article
+	by Richard M. Stallman originally published in the Wired
+	magazine.  It gives good reasons on why it's a very good idea
+	to use free software, for personal, governmental and
+	educational use.
+      </description>
+      <pubDate>Mon, 14 Sep 2015 22:08:48 -0300</pubDate>
+      <guid isPermaLink="false">http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html</guid>
+    </item>
+
+
+    <!-- Published translation: The GNU Project -->
+    <item>
+      <title>Published translation: The GNU Project</title>
+      <link>http://www.gnu.org/gnu/thegnuproject.pt-br.html</link>
+      <description>
+	"The GNU Project" is an article by Richard M. Stallman
+	originally published in the book "Open Sources".  It was
+	written in 1998 and tells the history of the GNU Project, the
+	FSF and the free software movement.
+      </description>
+      <pubDate>Mon, 14 Sep 2015 22:03:20 -0300</pubDate>
+      <guid isPermaLink="false">http://www.gnu.org/gnu/thegnuproject.pt-br.html</guid>
+    </item>
+
+
     <!-- Published software: QDot 8086 -->
     <item>
       <title>Published software: QDot 8086</title>
