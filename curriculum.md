@@ -114,9 +114,9 @@ Project | Skills
 <div class="no-break" markdown="1">
 ### Translations
 
-[Stallman's speech on free software](translation-stallman-speech-on-free-software) | from English to Portuguese
-[The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | from English to Portuguese
-[Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | from English to Portuguese
+[Stallman's speech on free software](translation-stallman-speech-on-free-software) | English, Portuguese
+[The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | English, Portuguese
+[Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | English, Portuguese
 
 </div>
 
