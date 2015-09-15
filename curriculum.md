@@ -45,11 +45,11 @@ hold and my published works that demonstrate my areas of expertise.
 <div class="no-break" markdown="1">
 ### Titles
 
-Position | Organization
----------|--------------
-[Maintainer/Programmer](http://www.gnu.org/people/#b) | [GNU Project](http://www.gnu.org/)
-[Free software editor (Portuguese)](http://www.dmoz.org/public/profile?editor=oitofelix) | [DMOZ](http://www.dmoz.org/)
-[PET member](http://www.portal.famat.ufu.br/node/274) | [UFU FAMAT](http://www.famat.ufu.br/)
+- [GNU ccd2cue maintainer](http://www.gnu.org/software/ccd2cue/)
+- [GNU web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org/server/standards/translations/pt-br/)
+- [GNU audio and video maintainer](http://audio-video.gnu.org/)
+- [DMOZ free software editor (Portuguese)](http://www.dmoz.org/public/profile?editor=oitofelix)
+- [UFU FAMAT PET member](http://www.portal.famat.ufu.br/node/274)
 
 </div>
 
