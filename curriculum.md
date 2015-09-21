@@ -46,6 +46,7 @@ hold and my published works that demonstrate my areas of expertise.
 ### Titles
 
 - [GNU ccd2cue maintainer](http://www.gnu.org/software/ccd2cue/)
+- [GNU Savannah hacker](https://savannah.gnu.org/project/memberlist.php?group=administration)
 - [GNU web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org/server/standards/translations/pt-br/)
 - [GNU audio and video maintainer](http://audio-video.gnu.org/)
 - [DMOZ free software editor (Portuguese)](http://www.dmoz.org/public/profile?editor=oitofelix)
