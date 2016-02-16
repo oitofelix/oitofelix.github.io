@@ -46,7 +46,7 @@ have done so much without the invaluable help of these people, to whom
 I'd like to say: __Thank you very much!__ If you would appreciate your
 name listed below, _please donate!_
 
-Name | Value
------|------
-Consultoria Ti8 | R$ 232,00
-Zak Rogoff | R$ 125,00
+Name | Value | Software package
+-----|-------|------------------
+Consultoria Ti8 | R$ 232,00 | None
+Zak Rogoff | R$ 125,00 | None
