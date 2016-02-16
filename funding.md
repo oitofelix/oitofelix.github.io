@@ -16,7 +16,8 @@ but for donations equal or greater than 50 US$ or 0.12 BTC, I’d be
 happy to acknowledge you in the donors table below.  If you want
 recognition, please send a mail to
 [oitofelix@gnu.org](mailto:oitofelix@gnu.org) with the name you wish
-to be listed and the value you've contributed.
+to be listed, the value you've contributed and for what software
+package it's intended (if any).
 
 __Thanks for your support!__
 
