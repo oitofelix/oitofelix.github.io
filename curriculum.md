@@ -57,7 +57,6 @@ hold and my published works that demonstrate my areas of expertise.
 - [GNU audio and video maintainer](http://audio-video.gnu.org/)
 - [GNU ethical repository criteria maintainer](http://www.gnu.org/software/repo-criteria.html#oitofelix)
 - [GNU web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org/server/standards/translations/pt-br/updates.html#table-contrib-ranking)
-- [DMOZ free software editor (Portuguese)](http://www.dmoz.org/public/profile?editor=oitofelix)
 - [UFU FAMAT PET member](http://www.portal.famat.ufu.br/node/274)
 
 </div>
