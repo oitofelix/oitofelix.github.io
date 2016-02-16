@@ -13,11 +13,12 @@ size – donations enable me to spend more time working for the free
 software community.  If you'd like to make a donation, please use one
 of the methods below.  Unfortunately I can’t offer you tax deduction,
 but for donations equal or greater than 50 US$ or 0.12 BTC, I’d be
-happy to acknowledge you in the donors table below.  If you want
-recognition, please send a mail to
-[oitofelix@gnu.org](mailto:oitofelix@gnu.org) with the name you wish
-to be listed, the value you've contributed and for what software
-package it's intended (if any).
+happy to acknowledge you in the donors table below.  If you decide to
+make recurrent donations, the total amount of your donations will be
+updated every month for all records.  If you want recognition, please
+send a mail to [oitofelix@gnu.org](mailto:oitofelix@gnu.org) with the
+name you wish to be listed, the value you've contributed and for what
+software package it's intended (if any).
 
 __Thanks for your support!__
 
