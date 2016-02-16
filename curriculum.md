@@ -43,9 +43,15 @@ hold and my published works that demonstrate my areas of expertise.
 
 <!-- Titles -->
 <div class="no-break" markdown="1">
-### Titles
+### Current titles
 
 - [GNU ccd2cue maintainer](http://www.gnu.org/software/ccd2cue/)
+
+</div>
+
+<div class="no-break" markdown="1">
+### Past titles
+
 - [GNU Savannah hacker](https://savannah.gnu.org/project/memberlist.php?group=administration)
 - [GNU webmaster](http://www.gnu.org/people/webmeisters.html#oitofelix)
 - [GNU audio and video maintainer](http://audio-video.gnu.org/)
@@ -55,7 +61,6 @@ hold and my published works that demonstrate my areas of expertise.
 - [UFU FAMAT PET member](http://www.portal.famat.ufu.br/node/274)
 
 </div>
-
 
 <!-- Software -->
 <div class="no-break" markdown="1">
