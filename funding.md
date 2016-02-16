@@ -7,21 +7,16 @@ layout: oitofelix-homepage
 ---
 ## Funding
 
-All my work as a free software programmer, translator and activist is
-voluntary.  You can support it by making a donation.  I appreciate
-contributions of any size – donations enable me to spend more time
-working for the free software community.  If you'd like to make a
-donation, of any value, please use one of the methods below.
-Unfortunately I can’t offer you tax deduction, but I’d be happy to
-recognize your contribution in the donors table below.  If you want
+All my work as a free software programmer is voluntary.  You can
+support it by making a donation.  I appreciate contributions of any
+size – donations enable me to spend more time working for the free
+software community.  If you'd like to make a donation, please use one
+of the methods below.  Unfortunately I can’t offer you tax deduction,
+but for donations equal or greater than 50 US$ or 0.12 BTC, I’d be
+happy to acknowledge you in the donors table below.  If you want
 recognition, please send a mail to
-[oitofelix@riseup.net](mailto:oitofelix@riseup.net) with the name and
-email you wish to be listed and the value you've contributed.
-
-If you happen to need skilled labor to make particular improvements in
-a free software package, work as a system administrator, webmaster,
-translator or to provide technical assistance, and think I'd be a good
-fit, please don't hesitate to contact me.
+[oitofelix@gnu.org](mailto:oitofelix@gnu.org) with the name you wish
+to be listed and the value you've contributed.
 
 __Thanks for your support!__
 
