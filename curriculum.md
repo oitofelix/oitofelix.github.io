@@ -67,7 +67,8 @@ hold and my published works that demonstrate my areas of expertise.
 
 Project | Skills
 --------|--------
-[GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | Autoconf, M4, Automake, Make, Texinfo, C, Doxygen, Bash, CVS, Savannah, GDB, Emacs
+[MININIM](mininim/) | Autoconf, M4, Automake, Make, Texinfo, C, Allegro, Bash, Git, GitHub, GDB, Emacs
+[GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | Autoconf, M4, Automake, Make, Texinfo, C, Doxygen, Bash, Git, Savannah, GDB, Emacs
 [QDot 8086](qdot-8086/) | 8086 Assembly, NASM, IBM-PC
 [Terminal Matrix 8086](terminal-matrix-8086/) | QDot, 8086 Assembly, NASM, IBM-PC
 [DeciMatrix 8086](decimatrix-8086/) | QDot, 8086 Assembly, NASM, IBM-PC
