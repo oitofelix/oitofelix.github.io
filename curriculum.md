@@ -50,12 +50,12 @@ Project | Description
 [MININIM](mininim/) | free software implementation of Jordan Mechner’s original Prince of Persia game
 [GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | CCD sheet to CUE sheet converter
 [QDot 8086](qdot-8086/) | mid-level programming language for the IBM-PC
-[Terminal Matrix 8086](terminal-matrix-8086/) | Terminal communication program
-[DeciMatrix 8086](decimatrix-8086/) | Matrix-like screen-saver
+[Terminal Matrix 8086](terminal-matrix-8086/) | terminal communication program
+[DeciMatrix 8086](decimatrix-8086/) | matrix-like screen-saver
 [grunt-hardlink](http://www.npmjs.com/package/grunt-hardlink) | Grunt plugin for creating hard links
 [MerpC](merpc/) | Cordova-based thin client for systems serving databases through web services
 [PlayStation 2 Linux](ps2-linux/) | PS2 Linux memory card and multi-tap device drivers and png2rgb tool
-[HP 50g JV](http://www.hpcalc.org/details.php?id=7171) | Tic-Tac-Toe game written in System RPL for the HP 50g calculator
+[HP 50g JV](http://www.hpcalc.org/details.php?id=7171) | tic-tac-toe game written in System RPL for the HP 50g calculator
 
 </div>
 
@@ -64,7 +64,7 @@ Project | Description
 <div class="no-break" markdown="1">
 ### Documentation
 
-[oitofelix's homepage](/) | Personal and professional homepage
+[oitofelix's homepage](/) | personal and professional homepage
 [GNU philosophy](gnu-philosophy/) | GNU Project’s collection of articles and essays about free software and related matters
 
 </div>
