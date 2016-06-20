@@ -66,34 +66,10 @@ Project | Description
 
 [oitofelix's homepage](/) | personal and professional homepage
 [GNU philosophy](gnu-philosophy/) | GNU Project’s collection of articles and essays about free software and related matters
-
-</div>
-
-
-<!-- Articles -->
-<div class="no-break" markdown="1">
-### Articles
-
 [Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | cvs2git, cvs-fast-export, rsync, CVS, Git, Savannah
 [GPG and SSH key handling](article-gpg-and-ssh-key-handling/) | GPG, OpenSSH, WebPG
-
-</div>
-
-
-<!-- Presentations -->
-<div class="no-break" markdown="1">
-### Presentations
-
 [TLS: Libre Software](presentation-tls-libre-software/) | LibreOffice Impress, Free software movement philosophy and history, Portuguese
-
-</div>
-
-
-<!-- Papers -->
-<div class="no-break" markdown="1">
-### Papers
-
-[XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | C, Numerical resolution of partial differential equations, Portuguese
+[XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | C, Numerical resolution of partial differential equations, Paper
 
 </div>
 
