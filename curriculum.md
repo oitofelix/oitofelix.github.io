@@ -38,7 +38,7 @@ development of several projects of my own making, contribute to other
 projects, write documentation, publish technical and philosophical
 articles, do translation work, help in infrastructure maintenance and
 provide support to users.  Below you can find a list of my published
-works and past experiences that demonstrate my areas of expertise.
+works and past experience that demonstrate my areas of expertise.
 
 
 <!-- Software -->
