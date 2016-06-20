@@ -41,26 +41,6 @@ provide support to users.  Below you can find a list of the titles I
 hold and my published works that demonstrate my areas of expertise.
 
 
-<!-- Titles -->
-<div class="no-break" markdown="1">
-### Current titles
-
-- [GNU ccd2cue maintainer](http://www.gnu.org/software/ccd2cue/)
-
-</div>
-
-<div class="no-break" markdown="1">
-### Past titles
-
-- [GNU Savannah hacker](https://savannah.gnu.org/project/memberlist.php?group=administration)
-- [GNU webmaster](http://www.gnu.org/people/webmeisters.html#oitofelix)
-- [GNU audio and video maintainer](http://audio-video.gnu.org/)
-- [GNU ethical repository criteria maintainer](http://www.gnu.org/software/repo-criteria.html#oitofelix)
-- [GNU web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org/server/standards/translations/pt-br/updates.html#table-contrib-ranking)
-- [UFU FAMAT PET member](http://www.portal.famat.ufu.br/node/274)
-
-</div>
-
 <!-- Software -->
 <div class="no-break" markdown="1">
 ### Software
@@ -129,6 +109,20 @@ Project | Skills
 </div>
 
 
+<!-- GNU project -->
+<div class="no-break" markdown="1">
+### GNU project
+
+In the GNU project I have played several roles:
+[ccd2cue maintainer](http://www.gnu.org/software/ccd2cue/),
+[Savannah hacker](https://savannah.gnu.org/project/memberlist.php?group=administration),
+[webmaster](http://www.gnu.org/people/webmeisters.html#oitofelix),
+[audio and video maintainer](http://audio-video.gnu.org/),
+[ethical repository criteria maintainer](http://www.gnu.org/software/repo-criteria.html#oitofelix),
+and [web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org/server/standards/translations/pt-br/updates.html#table-contrib-ranking).
+</div>
+
+
 <!-- Additional Experience -->
 <div class="no-break" markdown="1">
 ### Additional Experience
@@ -144,6 +138,7 @@ Project | Skills
   administrator
 - Assembling personal computers from component parts and
   fault-diagnosing hardware as a computer technician
+- [UFU FAMAT PET member](http://www.portal.famat.ufu.br/node/274)
 
 </div>
 
