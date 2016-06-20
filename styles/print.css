@@ -14,6 +14,6 @@ p, table, div.no-break {
     page-break-inside: avoid;
 }
 
-a:active, a:visited, a:hover {
-    color: inherit;
+a, a:visited {
+    color: blue;
 }
