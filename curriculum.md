@@ -37,8 +37,8 @@ software activist.  In the free software community I work on the
 development of several projects of my own making, contribute to other
 projects, write documentation, publish technical and philosophical
 articles, do translation work, help in infrastructure maintenance and
-provide support to users.  Below you can find a list of the titles I
-hold and my published works that demonstrate my areas of expertise.
+provide support to users.  Below you can find a list of my published
+works and past experiences that demonstrate my areas of expertise.
 
 
 <!-- Software -->
