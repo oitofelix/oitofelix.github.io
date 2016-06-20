@@ -89,7 +89,7 @@ Project | Description
 <div class="no-break" markdown="1">
 ### GNU project
 
-In the GNU project I have played several roles:
+In the GNU project I've had several responsibilities:
 [ccd2cue maintainer](http://www.gnu.org/software/ccd2cue/),
 [Savannah hacker](https://savannah.gnu.org/project/memberlist.php?group=administration),
 [webmaster](http://www.gnu.org/people/webmeisters.html#oitofelix),
