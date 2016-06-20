@@ -45,17 +45,17 @@ works and past experiences that demonstrate my areas of expertise.
 <div class="no-break" markdown="1">
 ### Software
 
-Project | Skills
+Project | Description
 --------|--------
-[MININIM](mininim/) | Autoconf, M4, Automake, Make, Texinfo, C, Allegro, Bash, Git, GitHub, GDB, Emacs
-[GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | Autoconf, M4, Automake, Make, Texinfo, C, Doxygen, Bash, Git, Savannah, GDB, Emacs
-[QDot 8086](qdot-8086/) | 8086 Assembly, NASM, IBM-PC
-[Terminal Matrix 8086](terminal-matrix-8086/) | QDot, 8086 Assembly, NASM, IBM-PC
-[DeciMatrix 8086](decimatrix-8086/) | QDot, 8086 Assembly, NASM, IBM-PC
-[grunt-hardlink](http://www.npmjs.com/package/grunt-hardlink) | Node.js, NPM, Grunt, JavaScript, Git, GitHub, Emacs
-[MerpC](merpc/) | Cordova, HTML, CSS, JavaScript, Mobile, Web, ERP
-[PlayStation 2 Linux](ps2-linux/) | Linux device driver programming, png2rgb, libpng, TGE, SBIOS, IRX, C, patch, PS2 homebrew, XDMCP, NFS
-[HP 50g JV](http://www.hpcalc.org/details.php?id=7171) | HP 50g System RPL
+[MININIM](mininim/) | free software implementation of Jordan Mechner’s original Prince of Persia game
+[GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | CCD sheet to CUE sheet converter
+[QDot 8086](qdot-8086/) | mid-level programming language for the IBM-PC
+[Terminal Matrix 8086](terminal-matrix-8086/) | Terminal communication program
+[DeciMatrix 8086](decimatrix-8086/) | Matrix-like screen-saver
+[grunt-hardlink](http://www.npmjs.com/package/grunt-hardlink) | Grunt plugin for creating hard links
+[MerpC](merpc/) | Cordova-based thin client for systems serving databases through web services
+[PlayStation 2 Linux](ps2-linux/) | PS2 Linux memory card and multi-tap device drivers and png2rgb tool
+[HP 50g JV](http://www.hpcalc.org/details.php?id=7171) | Tic-Tac-Toe game written in System RPL for the HP 50g calculator
 
 </div>
 
@@ -64,8 +64,8 @@ Project | Skills
 <div class="no-break" markdown="1">
 ### Documentation
 
-[oitofelix's homepage](/) | HTML5, CSS3, JavaScript, RSS 2.0,Jekyll, Git, GitHub, Emacs
-[GNU philosophy](gnu-philosophy/) | Texinfo, Unifont, ImageMagick, PO4A, Autoconf, M4, Automake, Make, Bash, Emacs
+[oitofelix's homepage](/) | Personal and professional homepage
+[GNU philosophy](gnu-philosophy/) | GNU Project’s collection of articles and essays about free software and related matters
 
 </div>
 
@@ -102,9 +102,9 @@ Project | Skills
 <div class="no-break" markdown="1">
 ### Translations
 
-[Stallman's speech on free software](translation-stallman-speech-on-free-software) | English, Portuguese
-[The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | English, Portuguese
-[Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | English, Portuguese
+[Stallman's speech on free software](translation-stallman-speech-on-free-software) | English to Portuguese
+[The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | English to Portuguese
+[Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | English to Portuguese
 
 </div>
 
