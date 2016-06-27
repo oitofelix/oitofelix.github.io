@@ -52,7 +52,8 @@ of my curriculum can be found online at my
 [personal website](http://oitofelix.github.io/curriculum.html).
 
 
-Looking forward to work with you!
+**Looking forward to work with you!**
+
 
 <!-- Software -->
 <div class="no-break" markdown="1">
