@@ -27,6 +27,7 @@ Birth    | 1989
 Gender   | Male
 Homepage | [oitofelix.github.io](http://oitofelix.github.io/)
 Email    | [oitofelix@gnu.org](mailto:oitofelix@gnu.org)
+LinkedIn | [linkedin.com/in/oitofelix](http://www.linkedin.com/in/oitofelix)
 GPG      | [7CB1 208C 7336 56B7 5962  2500 27B9 C6FD 28D6 18AF](/oitofelix.gpg)
 SSH      | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 
