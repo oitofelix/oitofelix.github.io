@@ -50,8 +50,6 @@ Below you can find a list of my published works and past experience
 that demonstrate my areas of expertise.  A frequently updated version
 of my curriculum can be found online at my
 [personal website](http://oitofelix.github.io/curriculum.html).
-
-
 **Looking forward to work with you!**
 
 
