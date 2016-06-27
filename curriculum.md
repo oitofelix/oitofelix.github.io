@@ -38,9 +38,25 @@ software activist.  In the free software community I work on the
 development of several projects of my own making, contribute to other
 projects, write documentation, publish technical and philosophical
 articles, do translation work, help in infrastructure maintenance and
-provide support to users.  Below you can find a list of my published
-works and past experience that demonstrate my areas of expertise.
+provide support to users.
 
+I consider myself a good fit for any software development position
+because I have the technical skills necessary to get the job done, and
+foremost because I'm the kind of person that will put her full
+potential into solving the company's problems and making their
+projects succeed. By my experience in the free software community,
+I've developed excellent communication and coordination skills,
+necessary to work productively within development teams of diverse
+cultural, philosophical and technical backgrounds.
+
+Below you can find a list of my published works and past experience
+that demonstrate my areas of expertise.  A frequently updated version
+of my curriculum can be found online at my website:
+
+  http://oitofelix.github.io/curriculum.html
+
+
+Looking forward to work with you!
 
 <!-- Software -->
 <div class="no-break" markdown="1">
