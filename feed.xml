@@ -36,6 +36,26 @@
       <height>64</height>
     </image>
 
+    <!-- Published software: MININIM 201612251709 -->
+    <item>
+      <title>Published software: MININIM 201612251709</title>
+      <link>http://oitofelix.github.io/mininim/</link>
+      <description>
+        MININIM is the Advanced Prince of Persia Engine — a childhood
+        dream, the free software implementation of Jordan Mechner’s
+        masterpiece game, developed from scratch by Bruno Félix
+        Rezende Ribeiro (oitofelix).
+
+        In addition to being already a complete replacement for the
+        original game with several improvements, MININIM aims to have
+        detailed documentation on all matters concerning the original
+        Prince of Persia world, ranging from its design concepts to
+        the engine’s practical use and development.
+      </description>
+      <pubDate>Sun, 25 Dec 2016 20:01:27 -0200</pubDate>
+      <guid isPermaLink="false">http://oitofelix.github.io/mininim/</guid>
+    </item>
+
     <!-- Published software: MININIM 0.10 -->
     <item>
       <title>Published software: MININIM 0.10</title>
