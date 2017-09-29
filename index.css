@@ -28,28 +28,28 @@
 
 /* Curriculum */
 
-#curricukum img {
+#curriculum img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     border: 4px solid black;
 }
 
-#curricukum #face-bw img {
+#curriculum #face-bw img {
     float: left;
     border: 2px solid black;
 }
 
-#curricukum #face-gray img {
+#curriculum #face-gray img {
     float: right;
     border: 2px solid black;
 }
 
-#curricukum h3 {
+#curriculum h3 {
     margin-bottom: 0px;
 }
 
-#curricukum ul {
+#curriculum ul {
     display: table;
     text-align: center;
     background-color: darkgray;
@@ -61,7 +61,7 @@
     list-style: none;
 }
 
-#curricukum ul > li {
+#curriculum ul > li {
     float: left;
     border-bottom: 1px solid black;
     width: 100%;
@@ -69,11 +69,11 @@
     box-sizing: border-box;
 }
 
-#curricukum ul > li:last-of-type {
+#curriculum ul > li:last-of-type {
     border: none;
 }
 
-#curricukum ul > li:nth-child(even) {
+#curriculum ul > li:nth-child(even) {
     background-color: silver;
 }
 
