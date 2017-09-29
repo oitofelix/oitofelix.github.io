@@ -16,22 +16,22 @@ vegetarian, atheist and an adept of the full-blooded Platonism school
 of thought.  I was born on September 12, 1989, in _Uberlândia_, a
 municipality in the state of _Minas Gerais_, _Brazil_.
 
-There are two main _virtues_ in _life_ that I consider of paramount
-importance: _knowledge_ and _goodwill_.  In all aspects of my life, as
-long as I'm aware of, I pursue the former for the betterment of my own
-self and uphold the latter for the sake of _community_ and _fairness_.
-Learning is a process of _discipline_ and _humility_: one needs
-discipline to learn by oneself and humility to learn from others.
-Those are, consequently, virtues which I highly value.  Moreover, in
-my humble opinion, contributing to the improvement of human _social
-welfare_ is a _moral duty_ of every capable person, and thus, I make
-it one of my main goals.  In order to achieve it the solidity of
-knowledge must be applied, albeit with _wisdom_ and attention to the
-whole extension of the _ethical precepts_ of goodwill, one of which is
-_freedom_.  Only with it we can have a healthy community and ground
-the basis of _justice_.  Hence, for me, many aspects of life revolve
-around _liberty_, what explains my strong stance on software user's
-freedom.
+<!-- There are two main _virtues_ in _life_ that I consider of paramount -->
+<!-- importance: _knowledge_ and _goodwill_.  In all aspects of my life, as -->
+<!-- long as I'm aware of, I pursue the former for the betterment of my own -->
+<!-- self and uphold the latter for the sake of _community_ and _fairness_. -->
+<!-- Learning is a process of _discipline_ and _humility_: one needs -->
+<!-- discipline to learn by oneself and humility to learn from others. -->
+<!-- Those are, consequently, virtues which I highly value.  Moreover, in -->
+<!-- my humble opinion, contributing to the improvement of human _social -->
+<!-- welfare_ is a _moral duty_ of every capable person, and thus, I make -->
+<!-- it one of my main goals.  In order to achieve it the solidity of -->
+<!-- knowledge must be applied, albeit with _wisdom_ and attention to the -->
+<!-- whole extension of the _ethical precepts_ of goodwill, one of which is -->
+<!-- _freedom_.  Only with it we can have a healthy community and ground -->
+<!-- the basis of _justice_.  Hence, for me, many aspects of life revolve -->
+<!-- around _liberty_, what explains my strong stance on software user's -->
+<!-- freedom. -->
 
 I'm a devotee of _reason_ and _evidence_, and have fostered my
 analytical and abstract thinking by contemplating and mimicking the
@@ -46,15 +46,15 @@ completeness of knowledge seems to me as intrinsically interconnected
 within itself, making most matters corelated at some non-trivial
 level.
 
-Although, as a _self-taught_ _knowledge-lover_ individual I'm
-interested in a wide range of intellectual disciplines, I have a
-particularly strong interest in _Logic_, _Mathematics_, _Computer
-Science_, and _Physics_.  On the other hand, several of the humanities
-fields, like _Philosophy_, _Politics_, _Law_, _Music_ and
-_Literature_, are also appreciated by me.  However, I'm an amateur in
-all those areas having chosen to pursue career as a _computer
-programmer_ and _system administrator_ because of my long standing
-affinity with computers.
+<!-- Although, as a _self-taught_ _knowledge-lover_ individual I'm -->
+<!-- interested in a wide range of intellectual disciplines, I have a -->
+<!-- particularly strong interest in _Logic_, _Mathematics_, _Computer -->
+<!-- Science_, and _Physics_.  On the other hand, several of the humanities -->
+<!-- fields, like _Philosophy_, _Politics_, _Law_, _Music_ and -->
+<!-- _Literature_, are also appreciated by me.  However, I'm an amateur in -->
+<!-- all those areas having chosen to pursue career as a _computer -->
+<!-- programmer_ and _system administrator_ because of my long standing -->
+<!-- affinity with computers. -->
 
 ### Personal Projects
 
