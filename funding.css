@@ -1,9 +1,0 @@
-input[type="image"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-p#bitcoin-address {
-    text-align: center;
-}

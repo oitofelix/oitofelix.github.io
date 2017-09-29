@@ -52,4 +52,5 @@ Name | Value | Software package
 -----|-------|------------------
 Consultoria Ti8 | R$ 232,00 | None
 Zak Rogoff | R$ 125,00 | None
+
 </div>

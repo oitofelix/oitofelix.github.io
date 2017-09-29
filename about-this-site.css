@@ -1,9 +1,0 @@
-table#jslicense-labels1 tr {
-    background-color: darkgray !important;
-}
-
-table#jslicense-labels1 tr td:only-child {
-    background: gray;
-    text-align: center;
-    font-weight: bold;
-}
