@@ -105,24 +105,24 @@ Nickname       | oitofelix
 GPG            | [7CB1 208C 7336 56B7 5962  2500 27B9 C6FD 28D6 18AF](/oitofelix.gpg)
 SSH            | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 Homepage       | [oitofelix.github.io](http://oitofelix.github.io/)
-Gopherspace    | [freeshell.org/1/users/oitofelix](gopher://freeshell.org/1/users/oitofelix/)
+<!-- Gopherspace    | [freeshell.org/1/users/oitofelix](gopher://freeshell.org/1/users/oitofelix/) -->
 Email (GNU)    | [oitofelix@gnu.org](mailto:oitofelix@gnu.org)
 Email (Riseup) | [oitofelix@riseup.net](mailto:oitofelix@riseup.net)
-Email (UFU)    | [oitofelix@mat.ufu.br](mailto:oitofelix@mat.ufu.br)
-IRC (GNU)      | [oitofelix@freenode](irc://irc.freenode.net/oitofelix)
-IRC (Debian)   | [oitofelix@oftc](irc://irc.oftc.net/oitofelix)
-IRC (Mozilla)  | [oitofelix@moznet](irc://irc.mozilla.org/oitofelix)
-XMPP (Riseup)  | [oitofelix@riseup.net](xmpp:oitofelix@riseup.net)
-XMPP (SDF)     | [oitofelix@jabber.sdf.org](xmpp:oitofelix@jabber.sdf.org)
-XMPP (Jabber)  | [oitofelix@jabber.org](xmpp:oitofelix@jabber.org)
-XMPP (DDG)     | [oitofelix@dukgo.com](xmpp:oitofelix@dukgo.com)
-TOX            | [oitofelix@toxme.se](tox:oitofelix@toxme.se)
-GNU Social     | [wm.sdf.org/gs/oitofelix](http://wm.sdf.org/gs/oitofelix)
-Friendica      | [oitofelix@wm.sdf.org](friendica:oitofelix@wm.sdf.org)
-Diaspora*      | [oitofelix@dia.sdf.org](diaspora:oitofelix@dia.sdf.org)
-Pump.io        | [identi.ca/oitofelix](http://identi.ca/oitofelix)
-Twister        | [@oitofelix](twister:@oitofelix)
-Movim          | [oitofelix@dukgo.com](xmpp:oitofelix@dukgo.com)
+<!-- Email (UFU)    | [oitofelix@mat.ufu.br](mailto:oitofelix@mat.ufu.br) -->
+IRC (Freenode)      | [oitofelix@freenode](irc://irc.freenode.net/oitofelix)
+<!-- IRC (Debian)   | [oitofelix@oftc](irc://irc.oftc.net/oitofelix) -->
+<!-- IRC (Mozilla)  | [oitofelix@moznet](irc://irc.mozilla.org/oitofelix) -->
+<!-- XMPP (Riseup)  | [oitofelix@riseup.net](xmpp:oitofelix@riseup.net) -->
+<!-- XMPP (SDF)     | [oitofelix@jabber.sdf.org](xmpp:oitofelix@jabber.sdf.org) -->
+<!-- XMPP (Jabber)  | [oitofelix@jabber.org](xmpp:oitofelix@jabber.org) -->
+<!-- XMPP (DDG)     | [oitofelix@dukgo.com](xmpp:oitofelix@dukgo.com) -->
+<!-- TOX            | [oitofelix@toxme.se](tox:oitofelix@toxme.se) -->
+<!-- GNU Social     | [wm.sdf.org/gs/oitofelix](http://wm.sdf.org/gs/oitofelix) -->
+<!-- Friendica      | [oitofelix@wm.sdf.org](friendica:oitofelix@wm.sdf.org) -->
+<!-- Diaspora*      | [oitofelix@dia.sdf.org](diaspora:oitofelix@dia.sdf.org) -->
+<!-- Pump.io        | [identi.ca/oitofelix](http://identi.ca/oitofelix) -->
+<!-- Twister        | [@oitofelix](twister:@oitofelix) -->
+<!-- Movim          | [oitofelix@dukgo.com](xmpp:oitofelix@dukgo.com) -->
 
 </div>
 
