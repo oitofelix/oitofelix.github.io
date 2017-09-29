@@ -4,6 +4,7 @@ description: Curriculum of oitofelix
 tags: curriculum, cv
 license: CC BY-ND 4.0
 layout: oitofelix-homepage
+redirect_from: "/"
 ---
 <div id="curriculum" markdown="1">
 ## Curriculum
