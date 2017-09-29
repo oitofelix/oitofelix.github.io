@@ -22,31 +22,31 @@ article-like web pages.  I've styled this site with that in mind.
   one true editor: __GNU Emacs__.
 
 
-## Licensing
+<!-- ## Licensing -->
 
-All pages have a license information in their footer regarding the
-rights of use and redistribution of their respective contents.  Every
-page is under some kind of _Creative Commons_ license, specifically
-stated within the page itself, but loosely determined by the rules
-below:
+<!-- All pages have a license information in their footer regarding the -->
+<!-- rights of use and redistribution of their respective contents.  Every -->
+<!-- page is under some kind of _Creative Commons_ license, specifically -->
+<!-- stated within the page itself, but loosely determined by the rules -->
+<!-- below: -->
 
-1. Any page which expresses my opinion, is applicable only to a
-   personal or very particular situation, isn't widely useful for
-   others to modify, is non-educational, or is somewhat trivial, is
-   licensed under a verbatim copying license, namely [CC BY-ND
-   4.0](http://creativecommons.org/licenses/by-nd/4.0/)
+<!-- 1. Any page which expresses my opinion, is applicable only to a -->
+<!--    personal or very particular situation, isn't widely useful for -->
+<!--    others to modify, is non-educational, or is somewhat trivial, is -->
+<!--    licensed under a verbatim copying license, namely [CC BY-ND -->
+<!--    4.0](http://creativecommons.org/licenses/by-nd/4.0/) -->
 
-2. Pages that don't categorize as such are usually released under a
-   free copyleft license, namely [CC BY-SA
-   4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+<!-- 2. Pages that don't categorize as such are usually released under a -->
+<!--    free copyleft license, namely [CC BY-SA -->
+<!--    4.0](https://creativecommons.org/licenses/by-sa/4.0/) -->
 
 
-If, for some reason, you think it may be useful to modify and
-redistribute some of these verbatim-licensed pages, please contact me
-and I'll consider releasing it abroad under a more appropriate and
-freer license or, in case I evaluate that as not adequate, I might
-consider granting you non-exclusive rights of modification and
-redistribution specifically, and solely, for your intended use.
+<!-- If, for some reason, you think it may be useful to modify and -->
+<!-- redistribute some of these verbatim-licensed pages, please contact me -->
+<!-- and I'll consider releasing it abroad under a more appropriate and -->
+<!-- freer license or, in case I evaluate that as not adequate, I might -->
+<!-- consider granting you non-exclusive rights of modification and -->
+<!-- redistribution specifically, and solely, for your intended use. -->
 
 <!-- ### JavaScript -->
 
@@ -105,11 +105,13 @@ Nickname       | oitofelix
 GPG            | [7CB1 208C 7336 56B7 5962  2500 27B9 C6FD 28D6 18AF](/oitofelix.gpg)
 SSH            | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 Homepage       | [oitofelix.github.io](http://oitofelix.github.io/)
-<!-- Gopherspace    | [freeshell.org/1/users/oitofelix](gopher://freeshell.org/1/users/oitofelix/) -->
 Email (GNU)    | [oitofelix@gnu.org](mailto:oitofelix@gnu.org)
 Email (Riseup) | [oitofelix@riseup.net](mailto:oitofelix@riseup.net)
-<!-- Email (UFU)    | [oitofelix@mat.ufu.br](mailto:oitofelix@mat.ufu.br) -->
+Email (UFU)    | [oitofelix@mat.ufu.br](mailto:oitofelix@mat.ufu.br)
 IRC (Freenode)      | [oitofelix@freenode](irc://irc.freenode.net/oitofelix)
+
+
+<!-- Gopherspace    | [freeshell.org/1/users/oitofelix](gopher://freeshell.org/1/users/oitofelix/) -->
 <!-- IRC (Debian)   | [oitofelix@oftc](irc://irc.oftc.net/oitofelix) -->
 <!-- IRC (Mozilla)  | [oitofelix@moznet](irc://irc.mozilla.org/oitofelix) -->
 <!-- XMPP (Riseup)  | [oitofelix@riseup.net](xmpp:oitofelix@riseup.net) -->
