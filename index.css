@@ -1,8 +1,8 @@
 /* About me */
 
-#about-me p:nth-of-type(2)::first-letter {
-    font-size: xx-large;
-}
+/* #about-me p:nth-of-type(2)::first-letter { */
+/*     font-size: xx-large; */
+/* } */
 
 #about-me img {
     float: left;
