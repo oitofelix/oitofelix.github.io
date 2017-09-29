@@ -1,0 +1,91 @@
+/* About me */
+
+#about-me p:nth-of-type(2)::first-letter {
+    font-size: xx-large;
+}
+
+#about-me img {
+    float: left;
+    border: 2px solid black;
+    margin-right: 4px;
+}
+
+#about-me h3 {
+    margin-bottom: 0px;
+}
+
+/* About this site */
+
+#about-this-site table#jslicense-labels1 tr {
+    background-color: darkgray !important;
+}
+
+#about-this-site table#jslicense-labels1 tr td:only-child {
+    background: gray;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Curriculum */
+
+#curricukum img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid black;
+}
+
+#curricukum #face-bw img {
+    float: left;
+    border: 2px solid black;
+}
+
+#curricukum #face-gray img {
+    float: right;
+    border: 2px solid black;
+}
+
+#curricukum h3 {
+    margin-bottom: 0px;
+}
+
+#curricukum ul {
+    display: table;
+    text-align: center;
+    background-color: darkgray;
+    padding: 0px;
+    border: 1px solid black;
+    margin-top: 0px;
+    width: 100%;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+#curricukum ul > li {
+    float: left;
+    border-bottom: 1px solid black;
+    width: 100%;
+    padding: 4px;
+    box-sizing: border-box;
+}
+
+#curricukum ul > li:last-of-type {
+    border: none;
+}
+
+#curricukum ul > li:nth-child(even) {
+    background-color: silver;
+}
+
+
+/* Funding */
+
+#funding input[type="image"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#funding p#bitcoin-address {
+    text-align: center;
+}

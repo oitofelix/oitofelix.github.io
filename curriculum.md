@@ -5,7 +5,7 @@ tags: curriculum, cv
 license: CC BY-ND 4.0
 layout: oitofelix-homepage
 ---
-<div id="markdown" markdown="1">
+<div id="curriculum" markdown="1">
 ## Curriculum
 
 <div id="face-bw" markdown="1">

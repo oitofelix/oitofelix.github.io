@@ -6,7 +6,7 @@ license: CC BY-ND 4.0
 layout: oitofelix-homepage
 news: [Infinity, '#news-result']
 ---
-<div id="markdown" markdown="1">
+<div id="about-this-site" markdown="1">
 <div id="start" />
 ## About this site
 

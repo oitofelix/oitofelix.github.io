@@ -5,6 +5,7 @@ tags: about, author
 license: CC BY-ND 4.0
 layout: oitofelix-homepage
 ---
+<div id="funding" markdown="1">
 ## Funding
 
 All my work as a free software programmer is voluntary.  You can
@@ -51,3 +52,4 @@ Name | Value | Software package
 -----|-------|------------------
 Consultoria Ti8 | R$ 232,00 | None
 Zak Rogoff | R$ 125,00 | None
+</div>

@@ -5,7 +5,7 @@ tags: about, author
 license: CC BY-ND 4.0
 layout: oitofelix-homepage
 ---
-<div id="markdown" markdown="1">
+<div id="about-me" markdown="1">
 ## About me
 
 ![oitofelix's informal face](/images/oitofelix-informal-face.jpg)
