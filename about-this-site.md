@@ -48,45 +48,45 @@ freer license or, in case I evaluate that as not adequate, I might
 consider granting you non-exclusive rights of modification and
 redistribution specifically, and solely, for your intended use.
 
-### JavaScript
+<!-- ### JavaScript -->
 
-As extensively explained in _Richard Stallman_'s article _[The
-JavaScript Trap](http://www.gnu.org/philosophy/javascript-trap.html)_,
-JavaScript code must be free software.  Below is a table listing the
-scripts used throughout this site, their licenses and a link to
-retrieve their respective source code.  This table implements
-_[JavaScript Web
-Labels](http://www.gnu.org/licenses/javascript-labels.html)_ as
-defined by the _GNU Project_, and as such should be _[GNU
-LibreJS](http://www.gnu.org/software/librejs/)_ compliant.  To help
-users find out about their rights and have access to the source code
-of JavaScript code they are running, every page has an
-orange _LibreJS_ logo in its footer linking to this section.
+<!-- As extensively explained in _Richard Stallman_'s article _[The -->
+<!-- JavaScript Trap](http://www.gnu.org/philosophy/javascript-trap.html)_, -->
+<!-- JavaScript code must be free software.  Below is a table listing the -->
+<!-- scripts used throughout this site, their licenses and a link to -->
+<!-- retrieve their respective source code.  This table implements -->
+<!-- _[JavaScript Web -->
+<!-- Labels](http://www.gnu.org/licenses/javascript-labels.html)_ as -->
+<!-- defined by the _GNU Project_, and as such should be _[GNU -->
+<!-- LibreJS](http://www.gnu.org/software/librejs/)_ compliant.  To help -->
+<!-- users find out about their rights and have access to the source code -->
+<!-- of JavaScript code they are running, every page has an -->
+<!-- orange _LibreJS_ logo in its footer linking to this section. -->
 
-<table id="jslicense-labels1">
-  <thead>
-    <tr><th>Script</th><th>License</th><th>Source</th></tr>
-  </thead>
-  <tbody>
-    <tr><td colspan="3">jQuery</td></tr>
-    <tr>
-      <td><a href="/scripts/jquery-1.6.4.min.js">jquery-1.6.4.min.js</a></td>
-      <td><a href="http://www.jclark.com/xml/copying.txt">Expat</a></td>
-      <td><a href="/scripts/jquery-1.6.4.js.gz">jquery-1.6.4.js.gz</a></td>
-    </tr>
-    <tr><td colspan="3">jFeed</td></tr>
-    <tr>
-      <td><a href="/scripts/jquery.jfeed.pack.js">jquery.jfeed.pack.js</a></td>
-      <td><a href="http://www.jclark.com/xml/copying.txt">Expat</a></td>
-      <td><a href="/scripts/jFeed-20110926.tar.gz">jFeed-20110926.tar.gz</a></td>
-    </tr>
-    <tr>
-      <td><a href="/scripts/feed2html.js">feed2html.js</a></td>
-      <td><a href="http://www.jclark.com/xml/copying.txt">Expat</a></td>
-      <td><a href="/scripts/feed2html.js">feed2html.js</a></td>
-    </tr>
-  </tbody>
-</table>
+<!-- <table id="jslicense-labels1"> -->
+<!--   <thead> -->
+<!--     <tr><th>Script</th><th>License</th><th>Source</th></tr> -->
+<!--   </thead> -->
+<!--   <tbody> -->
+<!--     <tr><td colspan="3">jQuery</td></tr> -->
+<!--     <tr> -->
+<!--       <td><a href="/scripts/jquery-1.6.4.min.js">jquery-1.6.4.min.js</a></td> -->
+<!--       <td><a href="http://www.jclark.com/xml/copying.txt">Expat</a></td> -->
+<!--       <td><a href="/scripts/jquery-1.6.4.js.gz">jquery-1.6.4.js.gz</a></td> -->
+<!--     </tr> -->
+<!--     <tr><td colspan="3">jFeed</td></tr> -->
+<!--     <tr> -->
+<!--       <td><a href="/scripts/jquery.jfeed.pack.js">jquery.jfeed.pack.js</a></td> -->
+<!--       <td><a href="http://www.jclark.com/xml/copying.txt">Expat</a></td> -->
+<!--       <td><a href="/scripts/jFeed-20110926.tar.gz">jFeed-20110926.tar.gz</a></td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td><a href="/scripts/feed2html.js">feed2html.js</a></td> -->
+<!--       <td><a href="http://www.jclark.com/xml/copying.txt">Expat</a></td> -->
+<!--       <td><a href="/scripts/feed2html.js">feed2html.js</a></td> -->
+<!--     </tr> -->
+<!--   </tbody> -->
+<!-- </table> -->
 
 
 ## Contact me
@@ -127,16 +127,16 @@ IRC (Freenode)      | [oitofelix@freenode](irc://irc.freenode.net/oitofelix)
 </div>
 
 
-<!-- ===================== News ===================== -->
-<section id="news">
-  <h2>News</h2>
-  <a href="/feed.xml">
-    <img src="/images/rss-logo.png"
-	 title="RSS 2.0"
-	 alt="RSS 2.0"
-	 width="24" height="24" /></a>
+<!-- <\!-- ===================== News ===================== -\-> -->
+<!-- <section id="news"> -->
+<!--   <h2>News</h2> -->
+<!--   <a href="/feed.xml"> -->
+<!--     <img src="/images/rss-logo.png" -->
+<!-- 	 title="RSS 2.0" -->
+<!-- 	 alt="RSS 2.0" -->
+<!-- 	 width="24" height="24" /></a> -->
 
-  <div id="news-result" />
-</section>
+<!--   <div id="news-result" /> -->
+<!-- </section> -->
 
 </div>
