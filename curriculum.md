@@ -25,7 +25,6 @@ redirect_from: "/"
 Name     | Bruno Félix Rezende Ribeiro
 Country  | Brazil
 Birth    | 1989
-Gender   | Male
 Homepage | [oitofelix.github.io](http://oitofelix.github.io/)
 Email    | [oitofelix@gnu.org](mailto:oitofelix@gnu.org)
 LinkedIn | [linkedin.com/in/oitofelix](http://www.linkedin.com/in/oitofelix)
@@ -78,7 +77,7 @@ Project | Description
 
 <!-- Non-software -->
 <div class="no-break" markdown="1">
-### Non-sofwtare
+### Non-software
 
 [oitofelix's homepage](/) | personal and professional homepage, HTML, CSS, Jekyll
 [GNU philosophy](gnu-philosophy/) | GNU Project’s collection of articles and essays about free software and related matters
