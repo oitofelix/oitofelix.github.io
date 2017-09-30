@@ -89,6 +89,7 @@ Project | Description
 [Stallman's speech on free software](translation-stallman-speech-on-free-software) | Translation, English to Portuguese
 [The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | Translation, English to Portuguese
 [Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | Translation, English to Portuguese,
+
 </div>
 
 
@@ -103,7 +104,7 @@ Project | Description
 [audio and video maintainer](http://audio-video.gnu.org/),
 [ethical repository criteria maintainer](http://www.gnu.org/software/repo-criteria.html#oitofelix),
 and
-[web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org/server/standards/translations/pt-br/updates.html#table-contrib-ranking).
+[web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org/server/standards/translations/pt-br/updates.html#table-contrib-ranking)
 - Building, improving and maintaining for two years his own version of
   the GNU+Linux-libre operating system, based on
   [(GNU/)Linux from scratch](http://www.linuxfromscratch.org/)
