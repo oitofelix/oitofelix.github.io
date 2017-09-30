@@ -76,42 +76,19 @@ Project | Description
 </div>
 
 
-<!-- Documentation -->
+<!-- Non-software -->
 <div class="no-break" markdown="1">
-### Documentation
+### Non-sofwtare
 
-[oitofelix's homepage](/) | personal and professional homepage
+[oitofelix's homepage](/) | personal and professional homepage, HTML, CSS, Jekyll
 [GNU philosophy](gnu-philosophy/) | GNU Project’s collection of articles and essays about free software and related matters
-[Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | cvs2git, cvs-fast-export, rsync, CVS, Git, Savannah
-[GPG and SSH key handling](article-gpg-and-ssh-key-handling/) | GPG, OpenSSH, WebPG
-[TLS: Libre Software](presentation-tls-libre-software/) | LibreOffice Impress, Free software movement philosophy and history, Portuguese
-[XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | C, Numerical resolution of partial differential equations, Paper
-
-</div>
-
-
-<!-- Translations -->
-<div class="no-break" markdown="1">
-### Translations
-
-[Stallman's speech on free software](translation-stallman-speech-on-free-software) | English to Portuguese
-[The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | English to Portuguese
-[Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | English to Portuguese
-
-</div>
-
-
-<!-- GNU project -->
-<div class="no-break" markdown="1">
-### GNU project
-
-In the GNU project I've had several responsibilities:
-[ccd2cue maintainer](http://www.gnu.org/software/ccd2cue/),
-[Savannah hacker](https://savannah.gnu.org/project/memberlist.php?group=administration),
-[webmaster](http://www.gnu.org/people/webmeisters.html#oitofelix),
-[audio and video maintainer](http://audio-video.gnu.org/),
-[ethical repository criteria maintainer](http://www.gnu.org/software/repo-criteria.html#oitofelix),
-and [web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org/server/standards/translations/pt-br/updates.html#table-contrib-ranking).
+[Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | Article, cvs2git, cvs-fast-export, rsync, CVS, Git, Savannah
+[GPG and SSH key handling](article-gpg-and-ssh-key-handling/) | Article, GPG, OpenSSH, WebPG
+[TLS: Libre Software](presentation-tls-libre-software/) | Presentation, Free software movement philosophy and history, Portuguese
+[XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | Academic, C, Numerical resolution of partial differential equations, Paper
+[Stallman's speech on free software](translation-stallman-speech-on-free-software) | Translation, English to Portuguese
+[The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | Translation, English to Portuguese
+[Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | Translation, English to Portuguese,
 </div>
 
 
@@ -119,6 +96,14 @@ and [web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org
 <div class="no-break" markdown="1">
 ### Additional Experience
 
+- In the GNU project I've had several responsibilities:
+[ccd2cue maintainer](http://www.gnu.org/software/ccd2cue/),
+[Savannah hacker](https://savannah.gnu.org/project/memberlist.php?group=administration),
+[webmaster](http://www.gnu.org/people/webmeisters.html#oitofelix),
+[audio and video maintainer](http://audio-video.gnu.org/),
+[ethical repository criteria maintainer](http://www.gnu.org/software/repo-criteria.html#oitofelix),
+and
+[web translation team coordinator (Brazilian Portuguese)](http://www.gnu.org/server/standards/translations/pt-br/updates.html#table-contrib-ranking).
 - Building, improving and maintaining for two years his own version of
   the GNU+Linux-libre operating system, based on
   [(GNU/)Linux from scratch](http://www.linuxfromscratch.org/)
