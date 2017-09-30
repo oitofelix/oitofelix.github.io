@@ -80,14 +80,14 @@ Project | Description
 ### Non-software
 
 [oitofelix's homepage](/) | personal and professional homepage, HTML, CSS, Jekyll
-[GNU philosophy](gnu-philosophy/) | GNU Project’s collection of articles and essays about free software and related matters
 [Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | Article, cvs2git, cvs-fast-export, rsync, CVS, Git, Savannah
 [GPG and SSH key handling](article-gpg-and-ssh-key-handling/) | Article, GPG, OpenSSH, WebPG
 [TLS: Libre Software](presentation-tls-libre-software/) | Presentation, Free software movement philosophy and history, Portuguese
-[XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | Academic, C, Numerical resolution of partial differential equations, Paper
 [Stallman's speech on free software](translation-stallman-speech-on-free-software) | Translation, English to Portuguese
 [The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | Translation, English to Portuguese
 [Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | Translation, English to Portuguese,
+[XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | Academic, C, Numerical resolution of partial differential equations, Paper
+[GNU philosophy](gnu-philosophy/) | GNU Project’s collection of articles and essays about free software and related matters
 
 </div>
 
