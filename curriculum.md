@@ -33,22 +33,22 @@ SSH      | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 
 </div>
 
-I'm a computer programmer, GNU hacker and free software activist with
-a Bachelor's degree in Mathematics.  In the free software community I
-work on the development of several projects of my own making,
-contribute to other projects, write documentation, publish technical
-and philosophical articles, do translation work, help in
-infrastructure maintenance and provide support to users.  I consider
-myself a good fit for any software development position because I have
-the technical skills necessary to get the job done, and foremost
-because I'm the kind of person that will put his full potential into
-solving the company's problems and making their projects succeed. By
-my experience in the free software community, I've developed excellent
-communication and coordination skills, necessary to work productively
-within development teams of diverse cultural, philosophical and
-technical backgrounds.  Below you can find a list of my published
-works and past experience that demonstrate my areas of expertise.  A
-frequently updated version of my curriculum can be found online at my
+I'm a computer programmer with a Bachelor's degree in Mathematics.  In
+the free software community I work on the development of several
+projects of my own making, contribute to other projects, write
+documentation, publish technical articles, do translation work, help
+in infrastructure maintenance and provide support to users.  I
+consider myself a good fit for any software development position
+because I have the technical skills necessary to get the job done, and
+foremost because I'm the kind of person that will put his full
+potential into solving the company's problems and making their
+projects succeed. By my experience in the free software community,
+I've developed excellent communication and coordination skills,
+necessary to work productively within development teams of diverse
+cultural, philosophical and technical backgrounds.  Below you can find
+a list of my published works and past experience that demonstrate my
+areas of expertise.  A frequently updated version of my curriculum can
+be found online at my
 [personal website](http://oitofelix.github.io/curriculum.html).
 **Looking forward to work with you!**
 
