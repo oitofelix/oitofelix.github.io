@@ -69,6 +69,7 @@ Project | Description
 [PlayStation 2 Linux](ps2-linux/) | PS2 Linux memory card and multi-tap device drivers and png2rgb tool
 [grunt-hardlink](http://www.npmjs.com/package/grunt-hardlink) | Grunt plugin for creating hard links
 [Ports](ports/) | software ports to eccentric platforms
+[Allegro 5](https://github.com/liballeg/allegro5/search?q=author%3Aoitofelix&type=Commits&utf8=%E2%9C%93) | low-level game library (patches)
 
 <!-- [MerpC](merpc/) | Cordova-based thin client for systems serving databases through web services -->
 
@@ -86,8 +87,8 @@ Project | Description
 [The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | translation
 [Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | translation
 [XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | academic
-[oitofelix's homepage](/) | personal and professional homepage
 [GNU philosophy](gnu-philosophy/) | documentation
+[oitofelix's homepage](/) | website
 
 </div>
 
