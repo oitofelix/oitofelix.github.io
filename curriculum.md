@@ -68,7 +68,7 @@ Project | Description
 [GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | CCD sheet to CUE sheet converter
 [PlayStation 2 Linux](ps2-linux/) | PS2 Linux memory card and multi-tap device drivers and png2rgb tool
 [grunt-hardlink](http://www.npmjs.com/package/grunt-hardlink) | Grunt plugin for creating hard links
-[Allegro 5](https://github.com/liballeg/allegro5/search?q=author%3Aoitofelix&type=Commits&utf8=%E2%9C%93) (patches)| low-level game library
+[Allegro 5](https://github.com/liballeg/allegro5/search?q=author%3Aoitofelix&type=Commits&utf8=%E2%9C%93) | low-level game library (patches)
 [Ports](ports/) | software ports to eccentric platforms
 
 <!-- [MerpC](merpc/) | Cordova-based thin client for systems serving databases through web services -->
