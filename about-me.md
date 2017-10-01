@@ -36,5 +36,6 @@ because of my long standing affinity with computers and mathematics.
 Project | Skills
 --------|--------
 [Assassinos Matinais](assassinos-matinais/) | Poetry, Music
+[Flesh for Fantasy Chorus Loop](https://www.youtube.com/watch?v=IG1x9rJjYh8) | Music Remix
 
 </div>
