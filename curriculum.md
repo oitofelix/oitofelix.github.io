@@ -86,6 +86,8 @@ Project | Description
 [Stallman's speech on free software](translation-stallman-speech-on-free-software) | translation
 [The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | translation
 [Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | translation
+[Proof of Tychonoff theorem](https://github.com/oitofelix/academic/raw/master/Teorema%20de%20Tychonoff/Teorema%20de%20Tychonoff.pdf) | academic (portuguese)
+[Proof of Jordan-von Neumann theorem](https://github.com/oitofelix/academic/raw/master/Jordan-von%20Neumann%20Theorem/Jordan-von%20Neumann%20Theorem.pdf) | academic
 [XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | academic
 [GNU philosophy](gnu-philosophy/) | documentation
 [oitofelix's homepage](/) | website
