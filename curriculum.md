@@ -52,9 +52,21 @@ be found online at my
 [personal website](http://oitofelix.github.io/curriculum.html).
 **Looking forward to work with you!**
 
+<!-- Contractors -->
+<div class="no-break" markdown="1">
+
+### Contractors
+
+Contractor | Experience
+-----------|--------
+[Softbox](http://www.softbox.com.br/) | <ul><li>Development of general integration infrastructure for foreign databases in Python and shell script;</li><li>Reverse engineering of databases using several SQL dialects;</li><li>Reverse engineering of Windows applications data obfuscation algorithms;</li><li>Internal network security analysis;</li></ul>
+[Morpheus](http://www.morpheustecnologia.com/) | Ionic frontend and Spring Boot backend development 
+
+</div>
 
 <!-- Software -->
 <div class="no-break" markdown="1">
+
 ### Software
 
 Project | Description
@@ -78,6 +90,7 @@ Project | Description
 
 <!-- Non-software -->
 <div class="no-break" markdown="1">
+
 ### Non-software
 
 [Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | article
@@ -97,6 +110,7 @@ Project | Description
 
 <!-- Additional Experience -->
 <div class="no-break" markdown="1">
+
 ### Additional Experience
 
 - In the GNU project I've had several responsibilities:
