@@ -59,7 +59,7 @@ be found online at my
 
 Contractor | Experience
 -----------|--------
-[Softbox](http://www.softbox.com.br/) | <ul><li>Development of general integration infrastructure for foreign databases in Python and shell script;</li><li>Reverse engineering of databases using several SQL dialects;</li><li>Reverse engineering of Windows applications data obfuscation algorithms;</li><li>Internal network security analysis;</li></ul>
+[Softbox](http://www.softbox.com.br/) | Development of general integration infrastructure for foreign databases in Python and shell script; Reverse engineering of databases using several SQL dialects; Reverse engineering of Windows applications data obfuscation algorithms; Internal network security analysis;
 [Morpheus](http://www.morpheustecnologia.com/) | Ionic frontend and Spring Boot backend development 
 
 </div>
