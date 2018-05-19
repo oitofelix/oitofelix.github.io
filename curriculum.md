@@ -59,8 +59,8 @@ be found online at my
 
 Company    | Experience | Period
 -----------|------------|--------
-[Softbox](http://www.softbox.com.br/) | Development of general integration infrastructure for foreign databases in Python and shell script; Reverse engineering of databases using several SQL dialects; Reverse engineering of Windows applications data obfuscation algorithms; Internal network security analysis; | Jan 2018 -- Current date
-[Morpheus](http://www.morpheustecnologia.com/) | Ionic frontend and Spring Boot backend development | Nov 2017 -- Dec 2017
+&nbsp;&nbsp;[Softbox](http://www.softbox.com.br/) &nbsp;&nbsp; | Development of general integration infrastructure for foreign databases in Python and shell script; Reverse engineering of databases using several SQL dialects; Reverse engineering of Windows applications data obfuscation algorithms; Internal network security analysis; | Jan 2018 &#8209; Current date
+&nbsp;&nbsp;[Morpheus](http://www.morpheustecnologia.com/) &nbsp;&nbsp; | Ionic frontend and Spring Boot backend development | Nov 2017 &#8209; Dec 2017
 
 </div>
 
