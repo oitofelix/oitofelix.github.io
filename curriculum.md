@@ -99,6 +99,7 @@ Project | Description
 [Stallman's speech on free software](translation-stallman-speech-on-free-software) | translation
 [The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | translation
 [Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | translation
+[TCC Buchberger UserRPL](academic/TCC%20-%20Buchberger%20UserRPL.pdf) | academic
 [Proof of Tychonoff theorem](academic/Teorema%20de%20Tychonoff.pdf) | academic
 [Proof of Jordan-von Neumann theorem](academic/Jordan-von%20Neumann%20Theorem.pdf) | academic
 [XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | academic
