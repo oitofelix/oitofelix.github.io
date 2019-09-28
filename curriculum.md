@@ -71,6 +71,7 @@ Company    | Experience | Period
 
 Project | Description
 --------|--------
+[ELPA](elpa/) | oitofelix’s Emacs Lisp Package Archive
 [MININIM](mininim/) | free software implementation of Jordan Mechner’s original Prince of Persia game
 [QDot 8086](qdot-8086/) | mid-level programming language for the IBM-PC
 [Terminal Matrix 8086](terminal-matrix-8086/) | terminal communication program
