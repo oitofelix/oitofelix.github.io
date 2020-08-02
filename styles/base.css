@@ -2,6 +2,9 @@ html {
     margin-bottom: 20px;
     background: Beige;
     font-family: sans-serif;
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 table {
