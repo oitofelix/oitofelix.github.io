@@ -24,6 +24,11 @@ software package it's intended (if any).
 __Thanks for your support!__
 
 
+### Patreon
+
+<a href="https://www.patreon.com/bePatron?u=45603794" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+
 ### PayPal
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
