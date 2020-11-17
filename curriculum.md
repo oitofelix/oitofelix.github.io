@@ -9,15 +9,16 @@ redirect_from: "/"
 <div id="curriculum" markdown="1">
 ## Curriculum
 
-<div id="face-bw" markdown="1">
-![oitofelix's face](images/oitofelix-face-bw.png)
-</div>
+<!-- <div id="face-bw" markdown="1"> -->
+<!-- ![oitofelix's face](images/oitofelix-face-bw.png) -->
+<!-- </div> -->
 
-<div id="face-gray" markdown="1">
-![oitofelix's face](images/oitofelix-face-gray.png)
-</div>
+<!-- <div id="face-gray" markdown="1"> -->
+<!-- ![oitofelix's face](images/oitofelix-face-gray.png) -->
+<!-- </div> -->
 
-![oitofelix's face](images/oitofelix-face.jpg)
+<!-- ![oitofelix's face](images/oitofelix-face.jpg) -->
+![oitofelix's face](images/oitofelix-face-bw-288.png)
 
 
 <div id="identity" markdown="1">
