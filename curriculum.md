@@ -25,7 +25,7 @@ redirect_from: "/"
 Name     | Bruno Félix Rezende Ribeiro
 Country  | Brazil
 Birth    | 1989
-Homepage | [oitofelix.github.io](http://oitofelix.github.io/)
+Homepage | [oitofelix.com](http://oitofelix.com/)
 Email    | [oitofelix@gnu.org](mailto:oitofelix@gnu.org)
 LinkedIn | [linkedin.com/in/oitofelix](http://www.linkedin.com/in/oitofelix)
 YouTube  | [youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng](https://youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng)
@@ -53,7 +53,7 @@ cultural, philosophical and technical backgrounds.  Below you can find
 a list of my published works and past experience that demonstrate my
 areas of expertise.  A frequently updated version of my curriculum can
 be found online at my
-[personal website](http://oitofelix.github.io/curriculum.html).
+[personal website](http://oitofelix.com/curriculum.html).
 **Looking forward to work with you!**
 
 <!-- Contractors -->
