@@ -63,8 +63,8 @@ be found online at my
 
 Company                                        | Period
 -----------------------------------------------|--------------------------
-[Yandeh](https://www.yandeh.com.br/)           | Fev 2020 -- Current date
-[Softbox](http://www.softbox.com.br/)          | Dec 2017 -- Fev 2020
+[Yandeh](https://www.yandeh.com.br/)           | Feb 2020 -- Current date
+[Softbox](http://www.softbox.com.br/)          | Dec 2017 -- Feb 2020
 [Morpheus](http://www.morpheustecnologia.com/) | Nov 2017 -- Dec 2017
 
 </div>
