@@ -61,10 +61,11 @@ be found online at my
 
 ### Contractors
 
-Company    | Experience | Period
------------|------------|--------
-[Softbox](http://www.softbox.com.br/) | Development of general integration infrastructure for foreign databases in Python and shell script; Reverse engineering of databases using several SQL dialects; Reverse engineering of Windows applications data obfuscation algorithms; Internal network security analysis; MinGW cross compilation; Lua+IUP development; Go programming | Jan 2018 -- Current date
-[Morpheus](http://www.morpheustecnologia.com/) | Ionic frontend and Spring Boot backend development | Nov 2017 -- Dec 2017
+Company                                        | Period
+-----------------------------------------------|--------------------------
+[Yandeh](https://www.yandeh.com.br/)           | Fev 2020 -- Current date
+[Softbox](http://www.softbox.com.br/)          | Dec 2017 -- Fev 2020
+[Morpheus](http://www.morpheustecnologia.com/) | Nov 2017 -- Dec 2017
 
 </div>
 
