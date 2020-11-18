@@ -108,7 +108,7 @@ Project | Description
 [TCC Buchberger UserRPL](academic/TCC%20-%20Buchberger%20UserRPL.pdf) | academic
 [Proof of Tychonoff theorem](academic/Teorema%20de%20Tychonoff.pdf) | academic
 [Proof of Jordan-von Neumann theorem](academic/Jordan-von%20Neumann%20Theorem.pdf) | academic
-[XXXIII CNMAC](http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | academic
+[XXXIII CNMAC](https://web.archive.org/web/20171010104336/http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | academic
 [GNU philosophy](gnu-philosophy/) | documentation
 [oitofelix's homepage](/) | website
 
@@ -137,7 +137,7 @@ and
   years
 - Assembling personal computers from component parts and
   fault-diagnosing hardware as a computer technician
-- [UFU FAMAT PET member](http://www.portal.famat.ufu.br/node/274)
+- [UFU FAMAT PET member](https://web.archive.org/web/20171210150215/http://www.portal.famat.ufu.br/node/274)
 
 </div>
 
