@@ -75,15 +75,15 @@ Company    | Experience | Period
 
 Project | Description
 --------|--------
-[ELPA](elpa/) | oitofelix’s Emacs Lisp Package Archive
 [MININIM](mininim/) | free software implementation of Jordan Mechner’s original Prince of Persia game
+[GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | CCD sheet to CUE sheet converter
+[ELPA](elpa/) | oitofelix’s Emacs Lisp Package Archive
 [Scripts](scripts.html) | Simple scripts to make life easier
 [QDot 8086](qdot-8086/) | mid-level programming language for the IBM-PC
 [Terminal Matrix 8086](terminal-matrix-8086/) | terminal communication program
 [DeciMatrix 8086](decimatrix-8086/) | matrix-like screen-saver
 [8F UserRPL Kernel](8f-userrpl-kernel/) | HP 50g extension library for UserRPL programming
 [HP 50g JV](http://www.hpcalc.org/details.php?id=7171) | tic-tac-toe game written in System RPL for the HP 50g calculator
-[GNU ccd2cue](http://www.gnu.org/software/ccd2cue/) | CCD sheet to CUE sheet converter
 [PlayStation 2 Linux](ps2-linux/) | PS2 Linux memory card and multi-tap device drivers and png2rgb tool
 [grunt-hardlink](http://www.npmjs.com/package/grunt-hardlink) | Grunt plugin for creating hard links
 [Allegro 5](https://github.com/liballeg/allegro5/search?q=author%3Aoitofelix&type=Commits&utf8=%E2%9C%93) | low-level game library (patches)
