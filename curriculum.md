@@ -18,8 +18,7 @@ redirect_from: "/"
 <!-- </div> -->
 
 <!-- ![oitofelix's face](images/oitofelix-face.jpg) -->
-![oitofelix's face](images/oitofelix-face-bw-288.png)
-
+![oitofelix's face](images/oitofelix-face-bw-240.png)
 
 <div id="identity" markdown="1">
 
