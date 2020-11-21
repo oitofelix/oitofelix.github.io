@@ -62,11 +62,11 @@ be found online at my
 
 ### Contractors
 
-Company                                        | Period
------------------------------------------------|--------------------------
-[Yandeh](https://www.yandeh.com.br/)           | Feb 2020 -- Current date
-[Softbox](http://www.softbox.com.br/)          | Dec 2017 -- Feb 2020
-[Morpheus](http://www.morpheustecnologia.com/) | Nov 2017 -- Dec 2017
+Company                                                           | Period
+------------------------------------------------------------------|--------------------------
+[Yandeh](https://www.linkedin.com/company/yandeh/)                | Feb 2020 -- Current date
+[iVendas](https://www.linkedin.com/company/ivendas-oficial/)      | Jun 2018 -- Feb 2020
+[Morpheus](https://www.linkedin.com/company/morpheus-tecnologia/) | Nov 2017 -- Jun 2018
 
 </div>
 
