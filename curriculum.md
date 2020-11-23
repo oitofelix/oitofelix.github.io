@@ -27,6 +27,7 @@ Country   | Brazil
 Birth     | 1989
 Homepage  | [oitofelix.com](http://oitofelix.com/)
 Email     | [oitofelix@gnu.org](mailto:oitofelix@gnu.org)
+Blogger   | [oitofelix.blogspot.com](https://oitofelix.blogspot.com/)
 LinkedIn  | [linkedin.com/in/oitofelix](http://www.linkedin.com/in/oitofelix)
 YouTube   | [youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng](https://youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng)
 Twitter   | [twitter.com/oitofelix](https://twitter.com/oitofelix)
