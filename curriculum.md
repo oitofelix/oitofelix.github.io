@@ -64,11 +64,11 @@ be found online at my
 
 ### Contractors
 
-Company                                                           | Period
-------------------------------------------------------------------|--------------------------
-[Yandeh](https://www.linkedin.com/company/yandeh/)                | Feb 2020 -- Current date
-[iVendas](https://www.linkedin.com/company/ivendas-oficial/)      | Jun 2018 -- Feb 2020
-[Morpheus](https://www.linkedin.com/company/morpheus-tecnologia/) | Nov 2017 -- Jun 2018
+Company                                                           | Title                        | Period
+------------------------------------------------------------------|------------------------------|--------------------------
+[Yandeh](https://www.linkedin.com/company/yandeh/)                | Solutions Architect          | Feb 2020 -- Current date
+[iVendas](https://www.linkedin.com/company/ivendas-oficial/)      | Senior Software Engineer     | Jun 2018 -- Feb 2020
+[Morpheus](https://www.linkedin.com/company/morpheus-tecnologia/) | Senior Application Developer | Nov 2017 -- Jun 2018
 
 </div>
 
