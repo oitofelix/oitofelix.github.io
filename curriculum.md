@@ -62,7 +62,7 @@ be found online at my
 <!-- Contractors -->
 <div class="no-break" markdown="1">
 
-### Contractors
+### Professional Experience
 
 Company                                                           | Title                        | Period
 ------------------------------------------------------------------|------------------------------|--------------------------
@@ -75,7 +75,7 @@ Company                                                           | Title       
 <!-- Software -->
 <div class="no-break" markdown="1">
 
-### Software
+### Personal Software Projects
 
 Project | Description
 --------|--------
@@ -101,7 +101,7 @@ Project | Description
 <!-- Non-software -->
 <div class="no-break" markdown="1">
 
-### Non-software
+### Personal Non-software Projects
 
 [Savannah CVS to Git migration](article-savannah-cvs-to-git-migration/) | article
 [GPG and SSH key handling](article-gpg-and-ssh-key-handling/) | article
