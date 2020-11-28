@@ -59,7 +59,7 @@ be found online at my
 [personal website](http://oitofelix.com/curriculum.html).
 **Looking forward to work with you!**
 
-<!-- Contractors -->
+<!-- Professional Experience -->
 <div class="no-break" markdown="1">
 
 ### Professional Experience
@@ -67,12 +67,12 @@ be found online at my
 Company                                                           | Title                        | Period
 ------------------------------------------------------------------|------------------------------|--------------------------
 [Yandeh](https://www.linkedin.com/company/yandeh/)                | Solutions Architect          | Feb 2020 -- Current date
-[iVendas](https://www.linkedin.com/company/ivendas-oficial/)      | Senior Software Engineer     | Jun 2018 -- Feb 2020
-[Morpheus](https://www.linkedin.com/company/morpheus-tecnologia/) | Senior Application Developer | Nov 2017 -- Jun 2018
+[iVendas](https://www.linkedin.com/company/ivendas-oficial/)      | Senior Software Engineer     | Sep 2018 -- Jan 2020
+[Morpheus](https://www.linkedin.com/company/morpheus-tecnologia/) | Senior Application Developer | Nov 2017 -- Aug 2018
 
 </div>
 
-<!-- Software -->
+<!-- Personal Software Projects -->
 <div class="no-break" markdown="1">
 
 ### Personal Software Projects
@@ -93,12 +93,10 @@ Project | Description
 [Allegro 5](https://github.com/liballeg/allegro5/search?q=author%3Aoitofelix&type=Commits&utf8=%E2%9C%93) | low-level game library (patches)
 [Ports](ports/) | software ports to eccentric platforms
 
-<!-- [MerpC](merpc/) | Cordova-based thin client for systems serving databases through web services -->
-
 </div>
 
 
-<!-- Non-software -->
+<!-- Personal Non-software Projects -->
 <div class="no-break" markdown="1">
 
 ### Personal Non-software Projects
@@ -109,10 +107,6 @@ Project | Description
 [Stallman's speech on free software](translation-stallman-speech-on-free-software) | translation
 [The GNU project](http://www.gnu.org/gnu/thegnuproject.pt-br.html) | translation
 [Free Software Is Even More Important Now](http://www.gnu.org/philosophy/free-software-even-more-important.pt-br.html) | translation
-[TCC Buchberger UserRPL](academic/TCC%20-%20Buchberger%20UserRPL.pdf) | academic
-[Proof of Tychonoff theorem](academic/Teorema%20de%20Tychonoff.pdf) | academic
-[Proof of Jordan-von Neumann theorem](academic/Jordan-von%20Neumann%20Theorem.pdf) | academic
-[XXXIII CNMAC](https://web.archive.org/web/20171010104336/http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | academic
 [GNU philosophy](gnu-philosophy/) | documentation
 [oitofelix's homepage](/) | website
 
@@ -145,5 +139,24 @@ and
 
 </div>
 
+
+<!-- Education -->
+<div class="no-break" markdown="1">
+
+### Education
+
+School                                                                            | Degree                    | Period
+----------------------------------------------------------------------------------|---------------------------|----------------------
+[Universidade Federal de Uberlândia](https://www.linkedin.com/school/ufuoficial/) | Bachelor's in Mathematics | Jun 2016 -- Dec 2018
+[Instituto Teresa Valsé](https://www.linkedin.com/company/instituto-teresavalse/) | High School               | Jan 2004 -- Dec 2006
+
+### Education Projects
+
+[TCC Buchberger UserRPL](academic/TCC%20-%20Buchberger%20UserRPL.pdf) | academic
+[Proof of Tychonoff theorem](academic/Teorema%20de%20Tychonoff.pdf) | academic
+[Proof of Jordan-von Neumann theorem](academic/Jordan-von%20Neumann%20Theorem.pdf) | academic
+[XXXIII CNMAC](https://web.archive.org/web/20171010104336/http://www.sbmac.org.br/eventos/cnmac/xxxiii_cnmac/pdf/481.pdf) | academic
+
+</div>
 
 </div>
