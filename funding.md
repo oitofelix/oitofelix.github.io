@@ -61,5 +61,6 @@ Name                      | Value          | Software package
 Consultoria Ti8           | R$ 232,00      | None
 Zak Rogoff                | R$ 125,00      | None
 Lucas Sköldqvist (frusen) | BTC 0.28833329 | GNU ccd2cue
+Aleš Janda                | BTC 0.003      | MININIM
 
 </div>
