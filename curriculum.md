@@ -28,10 +28,10 @@ Birth     | 1989
 Homepage  | [oitofelix.com](http://oitofelix.com/)
 Email     | [contato@oitofelix.com](mailto:contato@oitofelix.com)
 LinkedIn  | [linkedin.com/in/oitofelix](http://www.linkedin.com/in/oitofelix)
-YouTube   | [youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng](https://youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng)
 GPG       | [7CB1 208C 7336 56B7 5962  2500 27B9 C6FD 28D6 18AF](/oitofelix.gpg)
 SSH       | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
 
+<!-- YouTube   | [youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng](https://youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng) -->
 <!-- Blogger   | [oitofelix.blogspot.com](https://oitofelix.blogspot.com/) -->
 <!-- Twitter   | [twitter.com/oitofelix](https://twitter.com/oitofelix) -->
 <!-- Facebook  | [facebook.com/8oitofelixF](https://www.facebook.com/8oitofelixF) -->
