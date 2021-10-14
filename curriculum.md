@@ -66,7 +66,8 @@ be found online at my
 
 Company                                                           | Title                        | Period
 ------------------------------------------------------------------|------------------------------|--------------------------
-[Yandeh](https://www.linkedin.com/company/yandeh/)                | Solutions Architect          | Feb 2020 -- Current date
+[digiall](https://www.linkedin.com/company/digiall-transforma%C3%A7%C3%A3odigital/) | Senior Solutions Architect | Oct 2021 -- Current date
+[Yandeh](https://www.linkedin.com/company/yandeh/)                | Solutions Architect          | Feb 2020 -- Sep 2021
 [iVendas](https://www.linkedin.com/company/ivendas-oficial/)      | Senior Software Engineer     | Sep 2018 -- Jan 2020
 [Morpheus](https://www.linkedin.com/company/morpheus-tecnologia/) | Senior Application Developer | Nov 2017 -- Aug 2018
 
