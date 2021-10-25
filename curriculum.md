@@ -26,17 +26,18 @@ Name      | Bruno Félix Rezende Ribeiro
 Country   | Brazil
 Birth     | 1989
 Homepage  | [oitofelix.com](http://oitofelix.com/)
-Email     | [oitofelix@gnu.org](mailto:oitofelix@gnu.org)
-Blogger   | [oitofelix.blogspot.com](https://oitofelix.blogspot.com/)
+Email     | [contato@oitofelix.com](mailto:contato@oitofelix.com)
 LinkedIn  | [linkedin.com/in/oitofelix](http://www.linkedin.com/in/oitofelix)
-YouTube   | [youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng](https://youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng)
-Twitter   | [twitter.com/oitofelix](https://twitter.com/oitofelix)
-Facebook  | [facebook.com/8oitofelixF](https://www.facebook.com/8oitofelixF)
-Instagram | [instagram.com/oitofelix/](https://www.instagram.com/oitofelix/)
-reddit    | [reddit.com/user/oitofelix/](https://www.reddit.com/user/oitofelix/)
-Patreon   | [patreon.com/oitofelix](https://www.patreon.com/oitofelix)
 GPG       | [7CB1 208C 7336 56B7 5962  2500 27B9 C6FD 28D6 18AF](/oitofelix.gpg)
 SSH       | [c6:11:b0:09:0d:b7:0e:4b:49:d1:36:88:da:33:a3:6e](/oitofelix.ssh)
+
+<!-- YouTube   | [youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng](https://youtube.com/channel/UC1oBkjjTWGUqKdy3f966Nng) -->
+<!-- Blogger   | [oitofelix.blogspot.com](https://oitofelix.blogspot.com/) -->
+<!-- Twitter   | [twitter.com/oitofelix](https://twitter.com/oitofelix) -->
+<!-- Facebook  | [facebook.com/8oitofelixF](https://www.facebook.com/8oitofelixF) -->
+<!-- Instagram | [instagram.com/oitofelix/](https://www.instagram.com/oitofelix/) -->
+<!-- reddit    | [reddit.com/user/oitofelix/](https://www.reddit.com/user/oitofelix/) -->
+<!-- Patreon   | [patreon.com/oitofelix](https://www.patreon.com/oitofelix) -->
 
 </div>
 
@@ -66,7 +67,8 @@ be found online at my
 
 Company                                                           | Title                        | Period
 ------------------------------------------------------------------|------------------------------|--------------------------
-[Yandeh](https://www.linkedin.com/company/yandeh/)                | Solutions Architect          | Feb 2020 -- Current date
+[digiall](https://www.linkedin.com/company/digiall-transforma%C3%A7%C3%A3odigital/) | Senior Solutions Architect | Oct 2021 -- Current date
+[Yandeh](https://www.linkedin.com/company/yandeh/)                | Solutions Architect          | Feb 2020 -- Sep 2021
 [iVendas](https://www.linkedin.com/company/ivendas-oficial/)      | Senior Software Engineer     | Sep 2018 -- Jan 2020
 [Morpheus](https://www.linkedin.com/company/morpheus-tecnologia/) | Senior Application Developer | Nov 2017 -- Aug 2018
 
