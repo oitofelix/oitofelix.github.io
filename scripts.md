@@ -27,5 +27,5 @@ all-permissive license --- as recommended by the FSF.
 
 Name | Description |
 -----|-------------|
-[ssh-gpg-backup](https://github.com/oitofelix/ssh-gpg-backup) | Incrementally Tar-archive, XZ-compress and GPG-encrypt entire remote root file systems through SSH
+[ssh-gpg-backup](https://github.com/oitofelix/ssh-gpg-backup) | Create, verify and restore Tar-archived, Gzip-compressed and GPG-encrypted backups between remote hosts through SSH.  A simple and general remote backup solution using standard GNU tools.
 [pkcs12-gpg-ssh-sign](https://github.com/oitofelix/pkcs12-gpg-ssh-sign) | Sign Windows files using GPG-encrypted PKCS#12 certificate and its GPG-encrypted password which is sent through SSH
