@@ -2,7 +2,7 @@ html {
     margin-bottom: 20px;
     background: Beige;
     font-family: sans-serif;
-    width: 800px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
     text-align: justify;
@@ -13,6 +13,7 @@ table {
     background-color: darkgray;
     border-collapse: collapse;
     text-align: center;
+    word-break: break-word;
 }
 
 table tr:nth-child(even) {

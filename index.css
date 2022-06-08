@@ -33,6 +33,8 @@
     margin-left: auto;
     margin-right: auto;
     border: 4px solid black;
+    box-sizing: border-box;
+    max-width: 100%;
 }
 
 #curriculum #face-bw img {
